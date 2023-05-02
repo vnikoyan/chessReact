@@ -1,0 +1,30 @@
+.content-wrapper-5{
+  background:rgb(235, 141, 53);
+  height: auto;
+  .col-4{
+    text-align: center;
+    img{
+      width: 100%;
+      margin-bottom: 30px;
+    }
+  }
+  .buy-button{
+    width: 90px;
+    height: 50px;
+    .blackButton{
+      button{
+        font-size: calc((1 - 1) * 1.2vw + 1rem) !important;
+      }
+    }
+  }
+  .tariff-price{
+    font-size: 34px;
+    margin-bottom: 30px;
+  }
+  .tariff-details{
+    text-align: left;
+  }
+  *{
+      color: black !important;
+  }
+}

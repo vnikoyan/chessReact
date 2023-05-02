@@ -1,0 +1,52 @@
+@import '../../../styles/variable';
+
+.checkbox {
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  margin-left: 11px;
+  font-size: 13px;
+}
+
+.custom {
+  width: 24px;
+  height: 24px;
+
+  &:hover {
+    > span {
+      border-color: $primary !important;
+    }
+  }
+
+  > span, input {
+    width: 24px;
+    height: 24px;
+  }
+
+  > span {
+    border-radius: 0;
+    border-color: #D6D6D6;
+    background-color: #F3F3F3;
+
+    &::after {
+      height: 10px !important;
+      left: 7px !important;
+      top: 3px !important;
+    }
+  }
+
+  > input {
+    &:focus {
+      & + span {
+        border-color: $primary !important;
+      }
+    }
+  }
+}
+
+:global(.rc-checkbox-checked .rc-checkbox-inner) {
+  background-color: $primary !important;
+  border-color: $primary !important;
+}

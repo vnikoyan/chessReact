@@ -1,0 +1,9 @@
+@import '../../../styles/variable';
+
+.success_message {
+  font-size: 12px;
+  color: $success;
+  align-self: center;
+  text-align: center;
+  margin: 10px 0;
+}

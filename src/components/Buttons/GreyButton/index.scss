@@ -1,0 +1,15 @@
+@import '../../../styles/variable.scss';
+
+.greyButton {
+  width: auto !important;
+  button{
+    background: black;
+    .MuiButton-label{
+      color: white !important;
+    }
+  }
+}
+
+a{
+  text-decoration: none;
+}

@@ -1,0 +1,3193 @@
+
+.light.page-section {
+color: #000
+}
+
+.light.page-section.background-width--inset {
+    background-color: #000
+}
+
+.light:not(.has-background) .section-background {
+    background-color: #f5f5f4
+}
+
+.light h1 {
+    color: #000
+}
+
+.light h2 {
+    color: #000
+}
+
+.light h3 {
+    color: #000
+}
+
+.light h4 {
+    color: #000
+}
+
+.light .sqsrte-large {
+    color: #000
+}
+
+.light .sqsrte-small {
+    color: #000
+}
+
+.light .sqs-block-html a, .light .read-more-link, .light .entry-excerpt a {
+    color: #000
+}
+
+.light :focus, .light a:focus {
+    outline-color: #000
+}
+
+.light .sqs-search-page-input.focus-within {
+    outline-color: #000
+}
+
+.light .sqs-search-page-input:focus-within {
+    outline-color: #000
+}
+
+.light .header[data-first-focusable-element][data-focus-visible-added] .header-announcement-bar-wrapper {
+    outline-color: #000
+}
+
+.light .ProductItem .variant-radiobtn[data-focus-visible-added] + label {
+    outline-color: #000
+}
+
+.light .product-item-gallery-carousel-control:focus {
+    outline-color: #000
+}
+
+.light .sqs-modal-lightbox :focus {
+    outline-color: #000
+}
+
+.light .sqs-modal-lightbox.sqs-product-quick-view-lightbox :focus {
+    outline-color: #000
+}
+
+.light .sqs-modal-lightbox.sqs-product-quick-view-lightbox .sqs-product-quick-view-content :focus {
+    outline-color: #000
+}
+
+.light .sqs-modal-lightbox.sqs-product-quick-view-lightbox .sqs-product-quick-view-content .product-item-gallery-carousel-control:focus {
+    outline-color: #000
+}
+
+.light .sqs-block-button-element, .light .image-button a, .light .header-actions .btn, .light .header-skip-link {
+    color: #fff;
+    background-color: #000;
+    border-color: #000
+}
+
+.primary-button-style-outline .light .sqs-block-button-element--small, .primary-button-style-outline .light .sqs-block-button-element--medium, .primary-button-style-outline .light .sqs-block-button-element--large, .primary-button-style-outline .light .header-actions .btn {
+    color: #000;
+    border-color: #000;
+    background: transparent
+}
+
+.no-touch .primary-button-style-outline .light .sqs-block-button-element--small:hover, .no-touch .primary-button-style-outline .light .sqs-block-button-element--medium:hover, .no-touch .primary-button-style-outline .light .sqs-block-button-element--large:hover, .no-touch .primary-button-style-outline .light .header-actions .btn:hover {
+    background: #000;
+    color: #fff
+}
+
+.light .sqs-block-html a, .light .image-title-wrapper a, .light .image-subtitle-wrapper a, .light .sqs-image-caption a, .light .image-caption a, .light .sqs-block-newsletter a {
+    background-repeat: repeat-x;
+    background-image: linear-gradient(to right, currentColor 100%, currentColor 0);
+    background-size: 1px 1px;
+    background-position: 0 100%;
+    white-space: initial
+}
+
+.light .sqs-block-html a:hover, .light .image-title-wrapper a:hover, .light .image-subtitle-wrapper a:hover, .light .sqs-image-caption a:hover, .light .image-caption a:hover, .light .sqs-block-newsletter a:hover {
+    opacity: .7
+}
+
+body:not(.button-style-default) .light .sqs-editable-button, body.button-style-default .light .sqs-editable-button, body:not(.button-style-default) .light .sqs-editable-button-layout, body.button-style-default .light .sqs-editable-button-layout, body:not(.button-style-default) .light .sqs-editable-button-font, body.button-style-default .light .sqs-editable-button-font, body:not(.button-style-default) .light .sqs-editable-button-color, body.button-style-default .light .sqs-editable-button-color, body:not(.button-style-default) .light .sqs-editable-button-style, body.button-style-default .light .sqs-editable-button-style, body:not(.button-style-default) .light .sqs-editable-button-shape, body.button-style-default .light .sqs-editable-button-shape, body:not(.button-style-default) .light .sqs-add-to-cart-button, body.button-style-default .light .sqs-add-to-cart-button, body:not(.button-style-default) .light .newsletter-form-button, body.button-style-default .light .newsletter-form-button {
+    color: #fff;
+    background-color: #000;
+    border-color: #000
+}
+
+.no-touch body:not(.button-style-default) .light .sqs-editable-button.comment-btn:hover, .no-touch body.button-style-default .light .sqs-editable-button.comment-btn:hover, .no-touch body:not(.button-style-default) .light .sqs-editable-button-layout.comment-btn:hover, .no-touch body.button-style-default .light .sqs-editable-button-layout.comment-btn:hover, .no-touch body:not(.button-style-default) .light .sqs-editable-button-font.comment-btn:hover, .no-touch body.button-style-default .light .sqs-editable-button-font.comment-btn:hover, .no-touch body:not(.button-style-default) .light .sqs-editable-button-color.comment-btn:hover, .no-touch body.button-style-default .light .sqs-editable-button-color.comment-btn:hover, .no-touch body:not(.button-style-default) .light .sqs-editable-button-style.comment-btn:hover, .no-touch body.button-style-default .light .sqs-editable-button-style.comment-btn:hover, .no-touch body:not(.button-style-default) .light .sqs-editable-button-shape.comment-btn:hover, .no-touch body.button-style-default .light .sqs-editable-button-shape.comment-btn:hover, .no-touch body:not(.button-style-default) .light .sqs-add-to-cart-button.comment-btn:hover, .no-touch body.button-style-default .light .sqs-add-to-cart-button.comment-btn:hover, .no-touch body:not(.button-style-default) .light .newsletter-form-button.comment-btn:hover, .no-touch body.button-style-default .light .newsletter-form-button.comment-btn:hover {
+    background-color: #000
+}
+
+body.primary-button-style-outline .light .sqs-editable-button, body.primary-button-style-outline .light .sqs-editable-button-layout, body.primary-button-style-outline .light .sqs-editable-button-font, body.primary-button-style-outline .light .sqs-editable-button-color, body.primary-button-style-outline .light .sqs-editable-button-style, body.primary-button-style-outline .light .sqs-editable-button-shape, body.primary-button-style-outline .light .sqs-add-to-cart-button, body.primary-button-style-outline .light .newsletter-form-button {
+    color: #000;
+    border-color: #000;
+    background: transparent
+}
+
+.no-touch body.primary-button-style-outline .light .sqs-editable-button:hover, .no-touch body.primary-button-style-outline .light .sqs-editable-button-layout:hover, .no-touch body.primary-button-style-outline .light .sqs-editable-button-font:hover, .no-touch body.primary-button-style-outline .light .sqs-editable-button-color:hover, .no-touch body.primary-button-style-outline .light .sqs-editable-button-style:hover, .no-touch body.primary-button-style-outline .light .sqs-editable-button-shape:hover, .no-touch body.primary-button-style-outline .light .sqs-add-to-cart-button:hover, .no-touch body.primary-button-style-outline .light .newsletter-form-button:hover, .no-touch body.primary-button-style-outline .light .sqs-editable-button.comment-btn:hover, .no-touch body.primary-button-style-outline .light .sqs-editable-button-layout.comment-btn:hover, .no-touch body.primary-button-style-outline .light .sqs-editable-button-font.comment-btn:hover, .no-touch body.primary-button-style-outline .light .sqs-editable-button-color.comment-btn:hover, .no-touch body.primary-button-style-outline .light .sqs-editable-button-style.comment-btn:hover, .no-touch body.primary-button-style-outline .light .sqs-editable-button-shape.comment-btn:hover, .no-touch body.primary-button-style-outline .light .sqs-add-to-cart-button.comment-btn:hover, .no-touch body.primary-button-style-outline .light .newsletter-form-button.comment-btn:hover {
+    background: #000;
+    color: #fff
+}
+
+.no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .light .image-button a:hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .light .sqs-add-to-cart-button:hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .light .sqs-editable-button:not(input):hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .light .sqs-block-button-element:hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .light [data-animation-role="header-element"] .btn:hover {
+    color: #000
+}
+
+.no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .light .image-button a::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .light .sqs-add-to-cart-button::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .light .sqs-editable-button:not(input)::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .light .sqs-block-button-element::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .light [data-animation-role="header-element"] .btn::before {
+    border-color: #000;
+    background-color: #fff
+}
+
+.no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .light .image-button a:hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .light .sqs-add-to-cart-button:hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .light .sqs-editable-button:not(input):hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .light .sqs-block-button-element:hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .light [data-animation-role="header-element"] .btn:hover {
+    background-color: transparent !important;
+    color: #fff
+}
+
+.no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .light .image-button a::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .light .sqs-add-to-cart-button::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .light .sqs-editable-button:not(input)::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .light .sqs-block-button-element::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .light [data-animation-role="header-element"] .btn::before {
+    border-color: #000;
+    background-color: #000
+}
+
+.light .sqs-block-horizontalrule hr {
+    background-color: #000
+}
+
+.light .section-background-overlay {
+    background-color: #f5f5f4
+}
+
+.light .floating-cart {
+    background-color: #000;
+    color: #fff
+}
+
+.light .floating-cart :focus {
+    outline-color: #fff
+}
+
+.light .floating-cart .icon--stroke svg {
+    stroke: #fff
+}
+
+.tweak-transparent-header .sections .light.page-section:first-child.background-width--full-bleed.has-background .section-background:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(#f5f5f4, 150px, transparent);
+    opacity: .05
+}
+
+body[data-menu-overlay-theme-switcher="true"] .header.light {
+    background-color: #f5f5f4
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .header-title-text a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .header-nav-folder-content {
+    background-color: #f5f5f4
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .header-nav-wrapper a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .header-nav-wrapper .header-nav-item--active a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .user-accounts-text-link {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .cart-text-link {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .burger-inner .top-bun, body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .burger-inner .patty, body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .burger-inner .bottom-bun {
+    background-color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .header-actions .icon--stroke svg {
+    stroke: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .header-actions .icon--fill svg {
+    fill: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .header-actions .icon-cart-quantity {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .header-nav-item--active a {
+    background-repeat: repeat-x;
+    background-image: linear-gradient(to right, currentColor 100%, currentColor 0);
+    background-size: 1px 1px;
+    background-position: 0 calc(100% - 0.1em);
+    white-space: initial
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .header-nav-item--active a:hover {
+    opacity: .7
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .light .header-nav-item--active .header-nav-folder-item a {
+    background: none
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.light .header-title-text a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.light .header-burger .top-bun, body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.light .header-burger .patty, body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.light .header-burger .bottom-bun {
+    background-color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.light .header-nav-folder-content {
+    background-color: #f5f5f4
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.light .header-nav-wrapper a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.light .header-nav-wrapper .header-menu-nav-item--active a, body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.light .header-nav-wrapper .header-nav-item--active a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.light .user-accounts-text-link {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.light .cart-text-link {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.light .header-actions .icon--stroke svg {
+    stroke: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.light .header-actions .icon--fill svg {
+    fill: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.light .header-actions .icon-cart-quantity {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"] .header-menu.light .header-menu-bg {
+    background-color: #f5f5f4
+}
+
+body[data-menu-overlay-theme-switcher="true"] .header-menu.light .header-menu-nav a:not(.btn) {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"] .header-menu.light .header-menu-nav .header-menu-nav-item--active a, body[data-menu-overlay-theme-switcher="true"] .header-menu.light .header-menu-nav .header-nav-item--active a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"] .header-menu.light .header-menu-cta a {
+    color: #fff;
+    background-color: #000;
+    border-color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].primary-button-style-outline .header-menu.light .header-menu-cta a {
+    color: #000;
+    border-color: #000;
+    background: transparent
+}
+
+.no-touch body[data-menu-overlay-theme-switcher="true"].primary-button-style-outline .header-menu.light .header-menu-cta a:hover {
+    background: #000;
+    color: #fff
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-announcement-bar-wrapper {
+    background-color: #f5f5f4
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-title-text a {
+    color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-menu-bg, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-nav-folder-content {
+    background-color: #f5f5f4
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-nav-wrapper a, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-menu-nav a {
+    color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-nav-wrapper .header-menu-nav-item--active a, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-menu-nav .header-menu-nav-item--active a, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-nav-wrapper .header-nav-item--active a, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-menu-nav .header-nav-item--active a {
+    color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .user-accounts-text-link {
+    color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .cart-text-link {
+    color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .burger-inner .top-bun, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .burger-inner .patty, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .burger-inner .bottom-bun {
+    background-color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-actions .icon--stroke svg, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-menu-actions .icon--stroke svg {
+    stroke: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-actions .icon--fill svg, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-menu-actions .icon--fill svg {
+    fill: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-actions .icon-cart-quantity, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-menu-actions .icon-cart-quantity {
+    color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-nav-item--active a {
+    background-repeat: repeat-x;
+    background-image: linear-gradient(to right, currentColor 100%, currentColor 0);
+    background-size: 1px 1px;
+    background-position: 0 calc(100% - 0.1em);
+    white-space: initial
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-nav-item--active a:hover {
+    opacity: .7
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .light .header-nav-item--active .header-nav-folder-item a {
+    background: none
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light {
+    background-color: #f5f5f4
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-title-text a {
+    color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-nav-folder-content {
+    background-color: #f5f5f4
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-nav-wrapper a {
+    color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-nav-wrapper .header-menu-nav-item--active a, .tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-nav-wrapper .header-nav-item--active a {
+    color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .user-accounts-text-link {
+    color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .cart-text-link {
+    color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .burger-inner .top-bun, .tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .burger-inner .patty, .tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .burger-inner .bottom-bun {
+    background-color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-actions .icon--stroke svg, .tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-menu-actions .icon--stroke svg {
+    stroke: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-actions .icon--fill svg, .tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-menu-actions .icon--fill svg {
+    fill: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-actions .icon-cart-quantity, .tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-menu-actions .icon-cart-quantity {
+    color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-nav-item--active a {
+    background-repeat: repeat-x;
+    background-image: linear-gradient(to right, currentColor 100%, currentColor 0);
+    background-size: 1px 1px;
+    background-position: 0 calc(100% - 0.1em);
+    white-space: initial
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-nav-item--active a:hover {
+    opacity: .7
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.light .header-nav-item--active .header-nav-folder-item a {
+    background: none
+}
+
+.light .tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .burger-inner .top-bun, .light .tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .burger-inner .patty, .light .tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .burger-inner .bottom-bun {
+    background-color: #000
+}
+
+.light .tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-actions-action .icon--stroke svg {
+    stroke: #000
+}
+
+.light .tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-actions-action .icon--fill svg {
+    fill: #000
+}
+
+.light .tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-actions-action .icon-cart-quantity {
+    color: #000
+}
+
+.light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-bg, .light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-bg {
+    background-color: #f5f5f4
+}
+
+.light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-nav a, .light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-nav a {
+    color: #000
+}
+
+.light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .mobile-header-title-text, .light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .mobile-header-title-text {
+    color: #000
+}
+
+.light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .burger-inner .top-bun, .light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .burger-inner .top-bun, .light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .burger-inner .patty, .light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .burger-inner .patty, .light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .burger-inner .bottom-bun, .light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .burger-inner .bottom-bun {
+    background-color: #000
+}
+
+.light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-actions .icon--stroke svg, .light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-actions .icon--stroke svg, .light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-actions-action .icon--stroke svg, .light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-actions-action .icon--stroke svg {
+    stroke: #000
+}
+
+.light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-actions .icon--fill svg, .light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-actions .icon--fill svg, .light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-actions-action .icon--fill svg, .light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-actions-action .icon--fill svg {
+    fill: #000
+}
+
+.light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-actions .icon-cart-quantity, .light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-actions .icon-cart-quantity, .light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-actions-action .icon-cart-quantity, .light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-actions-action .icon-cart-quantity {
+    color: #000
+}
+
+.light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-cta a, .light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-cta a {
+    color: #fff;
+    background-color: #000;
+    border-color: #000
+}
+
+.primary-button-style-outline.light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-cta a, .primary-button-style-outline.light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-cta a {
+    color: #000;
+    border-color: #000;
+    background: transparent
+}
+
+.no-touch .primary-button-style-outline.light .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-cta a:hover, .no-touch .primary-button-style-outline.light .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-cta a:hover {
+    background: #000;
+    color: #fff
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.light .header-menu-bg {
+    background-color: #f5f5f4
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.light .header-menu-nav a {
+    color: #000
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.light .mobile-header-title-text {
+    color: #000
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.light .burger-inner .top-bun, .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.light .burger-inner .patty, .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.light .burger-inner .bottom-bun {
+    background-color: #000
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.light .header-menu-actions .icon--stroke svg {
+    stroke: #000
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.light .header-menu-actions .icon--fill svg {
+    fill: #000
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.light .header-menu-actions .icon-cart-quantity {
+    color: #000
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.light .header-menu-cta a {
+    color: #fff;
+    background-color: #000;
+    border-color: #000
+}
+
+.primary-button-style-outline.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.light .header-menu-cta a {
+    color: #000;
+    border-color: #000;
+    background: transparent
+}
+
+.no-touch .primary-button-style-outline.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.light .header-menu-cta a:hover {
+    background: #000;
+    color: #fff
+}
+
+.light .sqs-announcement-bar {
+    background: #474747
+}
+
+.light .sqs-announcement-bar :focus, .light .sqs-announcement-bar a:focus {
+    outline-color: #fff
+}
+
+.light .sqs-announcement-bar-text p, .light .sqs-announcement-bar-text a {
+    color: #fff
+}
+
+.light .sqs-announcement-bar-close {
+    background: transparent;
+    color: #fff
+}
+
+.light .gallery-fullscreen-slideshow-control-btn::before, .light .gallery-slideshow-control-btn::before {
+    background: #f5f5f4
+}
+
+.light .gallery-fullscreen-slideshow-control-btn svg, .light .gallery-slideshow-control-btn svg {
+    stroke: #000
+}
+
+.light .gallery-fullscreen-slideshow-bullet {
+    border-color: #f5f5f4;
+    background-color: transparent
+}
+
+.light .gallery-fullscreen-slideshow-bullet.active {
+    background-color: #f5f5f4
+}
+
+.light .gallery-lightbox-background {
+    background-color: #f5f5f4;
+    opacity: .9
+}
+
+.light .gallery-lightbox-control-btn {
+    color: #000
+}
+
+.light .gallery-lightbox-control-btn .gallery-lightbox-control-btn-icon svg * {
+    stroke: currentColor
+}
+
+.light .gallery-lightbox-close-btn {
+    color: #000
+}
+
+.light .gallery-lightbox-close-btn .gallery-lightbox-close-btn-icon svg * {
+    stroke: currentColor
+}
+
+.light .user-items-list-simple .list-item-content__title {
+    color: #000
+}
+
+.light .user-items-list-simple .list-item-content__description {
+    color: #000
+}
+
+.light .user-items-list-simple .list-item-content__button {
+    color: #fff;
+    background-color: #000
+}
+
+.light .user-items-list-simple .list-item[data-is-card-enabled="true"] {
+    background-color: #fff
+}
+
+.light .user-items-list-simple .list-image-placeholder {
+    background-color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-simple.light .list-item[data-is-card-enabled="true"] {
+    background-color: #f5f5f4
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-simple.light .list-item[data-is-card-enabled="true"] .list-item-content__title {
+    color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-simple.light .list-item[data-is-card-enabled="true"] .list-item-content__description {
+    color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-simple.light .list-item[data-is-card-enabled="true"] .list-item-content__button {
+    color: #fff;
+    background-color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-simple.light .list-item[data-is-card-enabled="true"] .list-image-placeholder {
+    background-color: #f5f5f4
+}
+
+.light .user-items-list-carousel .list-item-content__title {
+    color: #000
+}
+
+.light .user-items-list-carousel .list-item-content__description {
+    color: #000
+}
+
+.light .user-items-list-carousel .list-item-content__button {
+    color: #fff;
+    background-color: #000
+}
+
+.light .user-items-list-carousel .list-item[data-is-card-enabled="true"] {
+    background-color: #fff
+}
+
+.light .user-items-list-carousel .user-items-list-carousel__arrow-icon-foreground {
+    stroke: #474747
+}
+
+.light .user-items-list-carousel .user-items-list-carousel__arrow-icon-background {
+    background-color: #f5f5f4
+}
+
+.light .user-items-list-carousel .indicator {
+    background-color: #474747;
+    opacity: .3
+}
+
+.light .user-items-list-carousel .indicator.active {
+    opacity: 1
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-carousel.light .list-item[data-is-card-enabled="true"] {
+    background-color: #f5f5f4
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-carousel.light .list-item[data-is-card-enabled="true"] .list-item-content__title {
+    color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-carousel.light .list-item[data-is-card-enabled="true"] .list-item-content__description {
+    color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-carousel.light .list-item[data-is-card-enabled="true"] .list-item-content__button {
+    color: #fff;
+    background-color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-carousel.light .list-item[data-is-card-enabled="true"] .list-image-placeholder {
+    background-color: #f5f5f4
+}
+
+.light .user-items-list-banner-slideshow .list-item-content__title {
+    color: #000
+}
+
+.light .user-items-list-banner-slideshow .list-item-content__description {
+    color: #000
+}
+
+.light .user-items-list-banner-slideshow .list-item-content__button {
+    color: #fff;
+    background-color: #000
+}
+
+.light .user-items-list-banner-slideshow .user-items-list-banner-slideshow__arrow-icon-foreground {
+    stroke: #f5f5f4
+}
+
+.light .user-items-list-banner-slideshow .user-items-list-banner-slideshow__arrow-icon-background {
+    background-color: #474747
+}
+
+.light .user-items-list-banner-slideshow .indicator {
+    background-color: #f5f5f4;
+    opacity: .3
+}
+
+.light .user-items-list-banner-slideshow .indicator.active {
+    opacity: 1
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-banner-slideshow.light .list-item[data-is-card-enabled="true"] .list-item-card-background {
+    background-color: #f5f5f4
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-banner-slideshow.light .list-item[data-is-card-enabled="true"] .list-item-content__title {
+    color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-banner-slideshow.light .list-item[data-is-card-enabled="true"] .list-item-content__description {
+    color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-banner-slideshow.light .list-item[data-is-card-enabled="true"] .list-item-content__button {
+    color: #fff;
+    background-color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-banner-slideshow.light .list-item[data-is-card-enabled="true"] .list-image-placeholder {
+    background-color: #f5f5f4
+}
+
+.light .ImageAndText__headline {
+    color: #000
+}
+
+.light .ImageAndText__subheadline {
+    color: #000
+}
+
+.light .ImageAndText__button-link {
+    color: #fff;
+    background-color: #000
+}
+
+.light .ImageAndText__text-outer-wrapper[data-text-card-enabled="true"] {
+    background-color: #fff
+}
+
+.light .portfolio-grid-overlay .portfolio-title {
+    color: #000
+}
+
+.light .portfolio-grid-overlay .portfolio-overlay {
+    background-color: #f5f5f4
+}
+
+.light .portfolio-grid-basic .portfolio-title {
+    color: #000
+}
+
+.light .portfolio-hover[data-variant-hover-cover] .portfolio-hover-item-title {
+    color: #000
+}
+
+.light .collection-type-portfolio-index-background .portfolio-index-background-link h1 {
+    color: #000
+}
+
+.light .portfolio-hover[data-variant-hover-follow] .portfolio-hover-item-title {
+    color: #000
+}
+
+.light .portfolio-hover[data-variant-hover-static] .portfolio-hover-item-title {
+    color: #000
+}
+
+.light .item-pagination[data-collection-type^="portfolio"], .light.item-pagination[data-collection-type^="portfolio"] {
+    background-color: #f5f5f4
+}
+
+.light .item-pagination[data-collection-type^="portfolio"] .item-pagination-icon svg, .light.item-pagination[data-collection-type^="portfolio"] .item-pagination-icon svg {
+    stroke: #000
+}
+
+.light .item-pagination[data-collection-type^="portfolio"] .item-pagination-prev-next, .light.item-pagination[data-collection-type^="portfolio"] .item-pagination-prev-next {
+    color: #000
+}
+
+.light .item-pagination[data-collection-type^="portfolio"] .item-pagination-title, .light.item-pagination[data-collection-type^="portfolio"] .item-pagination-title {
+    color: #000
+}
+
+.light .blog-alternating-side-by-side .blog-more-link {
+    color: #000
+}
+
+.light .blog-alternating-side-by-side .blog-more-link::after {
+    background: #000
+}
+
+.light .blog-alternating-side-by-side .blog-title {
+    color: #000
+}
+
+.light .blog-alternating-side-by-side .blog-categories-list a, .light .blog-alternating-side-by-side .blog-author, .light .blog-alternating-side-by-side .blog-date, .light .blog-alternating-side-by-side .blog-meta-delimiter {
+    color: #000
+}
+
+.light .blog-alternating-side-by-side .blog-excerpt {
+    color: #000
+}
+
+.light .blog-alternating-side-by-side .blog-list-pagination {
+    color: #000
+}
+
+.light .blog-alternating-side-by-side .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #000
+}
+
+.light .blog-basic-grid .blog-more-link {
+    color: #000
+}
+
+.light .blog-basic-grid .blog-more-link::after {
+    background: #000
+}
+
+.light .blog-basic-grid .blog-title {
+    color: #000
+}
+
+.light .blog-basic-grid .blog-categories-list a, .light .blog-basic-grid .blog-author, .light .blog-basic-grid .blog-date, .light .blog-basic-grid .blog-meta-delimiter {
+    color: #000
+}
+
+.light .blog-basic-grid .blog-excerpt {
+    color: #000
+}
+
+.light .blog-basic-grid .blog-list-pagination {
+    color: #000
+}
+
+.light .blog-basic-grid .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #000
+}
+
+.light .blog-masonry .blog-more-link {
+    color: #000
+}
+
+.light .blog-masonry .blog-more-link::after {
+    background: #000
+}
+
+.light .blog-masonry .blog-title {
+    color: #000
+}
+
+.light .blog-masonry .blog-categories-list a, .light .blog-masonry .blog-author, .light .blog-masonry .blog-date, .light .blog-masonry .blog-meta-delimiter {
+    color: #000
+}
+
+.light .blog-masonry .blog-excerpt {
+    color: #000
+}
+
+.light .blog-masonry .blog-list-pagination {
+    color: #000
+}
+
+.light .blog-masonry .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #000
+}
+
+.light .blog-side-by-side .blog-more-link {
+    color: #000
+}
+
+.light .blog-side-by-side .blog-more-link::after {
+    background: #000
+}
+
+.light .blog-side-by-side .blog-title {
+    color: #000
+}
+
+.light .blog-side-by-side .blog-categories-list a, .light .blog-side-by-side .blog-author, .light .blog-side-by-side .blog-date, .light .blog-side-by-side .blog-meta-delimiter {
+    color: #000
+}
+
+.light .blog-side-by-side .blog-excerpt {
+    color: #000
+}
+
+.light .blog-side-by-side .blog-list-pagination {
+    color: #000
+}
+
+.light .blog-side-by-side .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #000
+}
+
+.light .blog-single-column .blog-more-link {
+    color: #000
+}
+
+.light .blog-single-column .blog-more-link::after {
+    background: #000
+}
+
+.light .blog-single-column .blog-title {
+    color: #000
+}
+
+.light .blog-single-column .blog-categories-list a, .light .blog-single-column .blog-author, .light .blog-single-column .blog-date, .light .blog-single-column .blog-meta-delimiter {
+    color: #000
+}
+
+.light .blog-single-column .blog-excerpt {
+    color: #000
+}
+
+.light .blog-single-column .blog-list-pagination {
+    color: #000
+}
+
+.light .blog-single-column .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #000
+}
+
+.light .blog-item-wrapper .blog-item-title h1.entry-title {
+    color: #000
+}
+
+.light .blog-item-wrapper .blog-meta-item, .light .blog-item-wrapper .blog-meta-item a, .light .blog-item-wrapper .blog-meta-item span {
+    text-decoration: none;
+    color: #000
+}
+
+.light .blog-item-wrapper .author-name, .light .blog-item-wrapper .author-website, .light .blog-item-wrapper .author-bio {
+    color: #000
+}
+
+.light .blog-item-wrapper #comments .header-controls, .light .blog-item-wrapper #comments .header-controls .comment-count, .light .blog-item-wrapper .comment-header .user-info, .light .blog-item-wrapper .comment-header .controls {
+    color: #000
+}
+
+.light .blog-item-wrapper .comment-body * {
+    color: #000
+}
+
+.light .item-pagination[data-collection-type^="blog"], .light.item-pagination[data-collection-type^="blog"] {
+    background-color: #f5f5f4
+}
+
+.light .item-pagination[data-collection-type^="blog"] .item-pagination-icon svg, .light.item-pagination[data-collection-type^="blog"] .item-pagination-icon svg {
+    stroke: #000
+}
+
+.light .item-pagination[data-collection-type^="blog"] .item-pagination-prev-next, .light.item-pagination[data-collection-type^="blog"] .item-pagination-prev-next {
+    color: #000
+}
+
+.light .item-pagination[data-collection-type^="blog"] .item-pagination-title, .light.item-pagination[data-collection-type^="blog"] .item-pagination-title {
+    color: #000
+}
+
+.light .products.collection-content-wrapper .grid-item.on-sale .sqs-money-native {
+    color: #f57c00
+}
+
+.light .products.collection-content-wrapper .grid-item.on-sale .original-price .sqs-money-native {
+    color: #000
+}
+
+.light .products.collection-content-wrapper .product-mark.sale {
+    color: #f57c00
+}
+
+.light .products.collection-content-wrapper .list-pagination .product-list-pagination-icon svg {
+    stroke: #000
+}
+
+.light .products.collection-content-wrapper .list-pagination-nested-categories {
+    text-transform: uppercase
+}
+
+.light .products.collection-content-wrapper .list-pagination-nested-categories .product-list-pagination-icon {
+    height: 15px;
+    width: 15px
+}
+
+.light .products.collection-content-wrapper .list-pagination-nested-categories .list-pagination-next {
+    text-align: right;
+    align-items: center
+}
+
+.light .products.collection-content-wrapper .list-pagination-nested-categories .list-pagination-prev {
+    align-items: center
+}
+
+.light .products.collection-content-wrapper .category-filter-delimiter {
+    color: #000
+}
+
+.light .products.collection-content-wrapper .category-filter-link::after {
+    background: #000
+}
+
+.no-touch .light .products.collection-content-wrapper .category-filter-link:hover, .light .products.collection-content-wrapper .category-filter-link.category-filter-link-all, .light .products.collection-content-wrapper .category-filter-link.active {
+    color: #000
+}
+
+.light .products.collection-content-wrapper .category-filter-list.other-active .category-filter-link {
+    color: #000
+}
+
+.no-touch .light .products.collection-content-wrapper .category-filter-list.other-active .category-filter-link:hover, .light .products.collection-content-wrapper .category-filter-list.other-active .category-filter-link.active {
+    color: #000
+}
+
+.light .products.collection-content-wrapper .grid-main-meta .grid-title {
+    color: #000
+}
+
+.light .products.collection-content-wrapper .grid-main-meta .grid-prices {
+    color: #000
+}
+
+.light .products.collection-content-wrapper .grid-main-meta .grid-meta-status {
+    color: #f57c00
+}
+
+.light .products.collection-content-wrapper .product-scarcity {
+    color: #000
+}
+
+.light .ProductItem.on-sale .ProductItem-details .product-price .sqs-money-native {
+    color: #f57c00
+}
+
+.light .ProductItem .ProductItem-details {
+    color: #000
+}
+
+.light .ProductItem .ProductItem-details h1.ProductItem-details-title {
+    color: #000
+}
+
+.light .ProductItem .ProductItem-details .product-price {
+    color: #000
+}
+
+.light .ProductItem .ProductItem-details .product-price, .light .ProductItem .ProductItem-details .product-price .original-price .sqs-money-native {
+    color: #000
+}
+
+.light .ProductItem .ProductItem-details .product-scarcity {
+    color: #f57c00
+}
+
+.light .ProductItem .ProductItem-details .variant-option, .light .ProductItem .ProductItem-details .product-quantity-input, .light .ProductItem .ProductItem-details .product-quantity-input input {
+    color: #000
+}
+
+.light .ProductItem .ProductItem-details .variant-select-wrapper:after {
+    border-bottom-color: #000;
+    border-right-color: #000
+}
+
+.light .ProductItem .ProductItem-nav-breadcrumb span, .light .ProductItem .ProductItem-nav-pagination span, .light .ProductItem .ProductItem-nav-breadcrumb a, .light .ProductItem .ProductItem-nav-pagination a {
+    color: #000
+}
+
+.light .ProductItem .product-item-gallery-carousel-control::after {
+    border-color: #000
+}
+
+.light .ProductItem .ProductItem-gallery-current-slide-indicator {
+    color: #000
+}
+
+.light .ProductItem .ProductItem-gallery-scroll::after {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #f5f5f4 100%)
+}
+
+.light .sqs-product-quick-view-content {
+    background-color: #f5f5f4
+}
+
+.light [data-quick-view-lightbox-colors="true"] .sqs-product-quick-view-content {
+    background-color: #fff
+}
+
+.light .product-block .product-quantity-input input {
+    color: #000 !important
+}
+
+.light .item-pagination[data-collection-type^="events"], .light.item-pagination[data-collection-type^="events"] {
+    background-color: #f5f5f4
+}
+
+.light .item-pagination[data-collection-type^="events"] .item-pagination-icon svg, .light.item-pagination[data-collection-type^="events"] .item-pagination-icon svg {
+    stroke: #000
+}
+
+.light .item-pagination[data-collection-type^="events"] .events-item-pagination-date, .light.item-pagination[data-collection-type^="events"] .events-item-pagination-date {
+    color: #000
+}
+
+.light .item-pagination[data-collection-type^="events"] .item-pagination-title, .light.item-pagination[data-collection-type^="events"] .item-pagination-title {
+    color: #000
+}
+
+.light .sqs-block-collectionlink .collectionlink-title {
+    color: #000
+}
+
+.light .image-overlay, .light .sqs-image-content::after {
+    background-color: #f5f5f4
+}
+
+.light .sqs-block-image .design-layout-poster .sqs-image-content::after, .light .sqs-block-image .design-layout-poster .image-overlay {
+    background-color: #474747
+}
+
+.light .sqs-block-image .design-layout-poster .image-title * {
+    color: #fff
+}
+
+.light .sqs-block-image .design-layout-poster .image-subtitle * {
+    color: #fff
+}
+
+.light .sqs-block-image .design-layout-poster .image-title a, .light .sqs-block-image .design-layout-poster .image-subtitle a {
+    color: #fff
+}
+
+.no-touch .light .sqs-block-image .design-layout-poster .image-title a:hover, .no-touch .light .sqs-block-image .design-layout-poster .image-subtitle a:hover {
+    opacity: .8
+}
+
+.light .sqs-block-image .design-layout-poster .image-title * {
+    background-color: rgba(245, 245, 244, 0);
+    box-shadow: .2em 0 0 rgba(245, 245, 244, 0), -.2em 0 0 rgba(245, 245, 244, 0)
+}
+
+.primary-button-style-solid .light .sqs-block-image .design-layout-poster .image-button a {
+    background: #000;
+    color: #fff
+}
+
+.primary-button-style-outline .light .sqs-block-image .design-layout-poster .image-button a {
+    background: transparent;
+    color: #000;
+    border: 2px solid #000
+}
+
+.no-touch .primary-button-style-outline .light .sqs-block-image .design-layout-poster .image-button a:hover {
+    background: #000;
+    color: #fff
+}
+
+.light .sqs-block-image .design-layout-card .sqs-image-content::after, .light .sqs-block-image .design-layout-card .image-overlay {
+    background-color: #474747
+}
+
+.light .sqs-block-image .design-layout-card .image-title * {
+    color: #000
+}
+
+.light .sqs-block-image .design-layout-card .image-subtitle * {
+    color: #000
+}
+
+.light .sqs-block-image .design-layout-card .image-title a, .light .sqs-block-image .design-layout-card .image-subtitle a {
+    color: #000
+}
+
+.no-touch .light .sqs-block-image .design-layout-card .image-title a:hover, .no-touch .light .sqs-block-image .design-layout-card .image-subtitle a:hover {
+    opacity: .8
+}
+
+.light .sqs-block-image .design-layout-card .image-title * {
+    background-color: rgba(245, 245, 244, 0);
+    box-shadow: .2em 0 0 rgba(245, 245, 244, 0), -.2em 0 0 rgba(245, 245, 244, 0)
+}
+
+.primary-button-style-solid .light .sqs-block-image .design-layout-card .image-button a {
+    background: #000;
+    color: #fff
+}
+
+.primary-button-style-outline .light .sqs-block-image .design-layout-card .image-button a {
+    background: transparent;
+    color: #000;
+    border: 2px solid #000
+}
+
+.no-touch .primary-button-style-outline .light .sqs-block-image .design-layout-card .image-button a:hover {
+    background: #000;
+    color: #fff
+}
+
+.light .sqs-block-image .design-layout-overlap .sqs-image-content::after, .light .sqs-block-image .design-layout-overlap .image-overlay {
+    background-color: #474747
+}
+
+.light .sqs-block-image .design-layout-overlap .image-title * {
+    color: #000
+}
+
+.light .sqs-block-image .design-layout-overlap .image-subtitle * {
+    color: #000
+}
+
+.light .sqs-block-image .design-layout-overlap .image-title a, .light .sqs-block-image .design-layout-overlap .image-subtitle a {
+    color: #000
+}
+
+.no-touch .light .sqs-block-image .design-layout-overlap .image-title a:hover, .no-touch .light .sqs-block-image .design-layout-overlap .image-subtitle a:hover {
+    opacity: .8
+}
+
+.light .sqs-block-image .design-layout-overlap .image-title * {
+    background-color: #f5f5f4;
+    box-shadow: .2em 0 0 #f5f5f4, -.2em 0 0 #f5f5f4
+}
+
+.primary-button-style-solid .light .sqs-block-image .design-layout-overlap .image-button a {
+    background: #000;
+    color: #fff
+}
+
+.primary-button-style-outline .light .sqs-block-image .design-layout-overlap .image-button a {
+    background: transparent;
+    color: #000;
+    border: 2px solid #000
+}
+
+.no-touch .primary-button-style-outline .light .sqs-block-image .design-layout-overlap .image-button a:hover {
+    background: #000;
+    color: #fff
+}
+
+.light .sqs-block-image .design-layout-collage .sqs-image-content::after, .light .sqs-block-image .design-layout-collage .image-overlay {
+    background-color: #474747
+}
+
+.light .sqs-block-image .design-layout-collage .image-card {
+    background-color: #fff
+}
+
+.light .sqs-block-image .design-layout-collage .image-title * {
+    color: #000
+}
+
+.light .sqs-block-image .design-layout-collage .image-subtitle * {
+    color: #000
+}
+
+.light .sqs-block-image .design-layout-collage .image-title a, .light .sqs-block-image .design-layout-collage .image-subtitle a {
+    color: #000
+}
+
+.no-touch .light .sqs-block-image .design-layout-collage .image-title a:hover, .no-touch .light .sqs-block-image .design-layout-collage .image-subtitle a:hover {
+    opacity: .8
+}
+
+.light .sqs-block-image .design-layout-collage .image-title * {
+    background-color: rgba(245, 245, 244, 0);
+    box-shadow: .2em 0 0 rgba(245, 245, 244, 0), -.2em 0 0 rgba(245, 245, 244, 0)
+}
+
+.primary-button-style-solid .light .sqs-block-image .design-layout-collage .image-button a {
+    background: #000;
+    color: #fff
+}
+
+.primary-button-style-outline .light .sqs-block-image .design-layout-collage .image-button a {
+    background: transparent;
+    color: #000;
+    border: 2px solid #000
+}
+
+.no-touch .primary-button-style-outline .light .sqs-block-image .design-layout-collage .image-button a:hover {
+    background: #000;
+    color: #fff
+}
+
+.light .sqs-block-image .design-layout-stack .sqs-image-content::after, .light .sqs-block-image .design-layout-stack .image-overlay {
+    background-color: #474747
+}
+
+.light .sqs-block-image .design-layout-stack .image-title * {
+    color: #000
+}
+
+.light .sqs-block-image .design-layout-stack .image-subtitle * {
+    color: #000
+}
+
+.light .sqs-block-image .design-layout-stack .image-title a, .light .sqs-block-image .design-layout-stack .image-subtitle a {
+    color: #000
+}
+
+.no-touch .light .sqs-block-image .design-layout-stack .image-title a:hover, .no-touch .light .sqs-block-image .design-layout-stack .image-subtitle a:hover {
+    opacity: .8
+}
+
+.light .sqs-block-image .design-layout-stack .image-title * {
+    background-color: rgba(245, 245, 244, 0);
+    box-shadow: .2em 0 0 rgba(245, 245, 244, 0), -.2em 0 0 rgba(245, 245, 244, 0)
+}
+
+.primary-button-style-solid .light .sqs-block-image .design-layout-stack .image-button a {
+    background: #000;
+    color: #fff
+}
+
+.primary-button-style-outline .light .sqs-block-image .design-layout-stack .image-button a {
+    background: transparent;
+    color: #000;
+    border: 2px solid #000
+}
+
+.no-touch .primary-button-style-outline .light .sqs-block-image .design-layout-stack .image-button a:hover {
+    background: #000;
+    color: #fff
+}
+
+.light .menu-block .menu-select-labels {
+    color: #000
+}
+
+.light .menu-block .menu-section-title {
+    color: #000
+}
+
+.light .menu-block .menu-item-title {
+    color: #000
+}
+
+.light .menu-block .menu-item-description {
+    color: #000
+}
+
+.light .menu-block .menu-item-price-bottom {
+    color: #000
+}
+
+.light .sqs-block-form .field-list .title {
+    color: #000
+}
+
+.light .sqs-block-form .field-list .description {
+    color: #000
+}
+
+.light .sqs-block-form .field-list .caption {
+    color: #000
+}
+
+.light .sqs-block-form .field-list ::placeholder {
+    color: #737373;
+    opacity: 1
+}
+
+.light .sqs-block-form .field-list :-ms-input-placeholder {
+    color: #737373
+}
+
+.light .sqs-block-form .field-list ::-ms-input-placeholder {
+    color: #737373
+}
+
+.light .sqs-block-form .field-list .option {
+    color: #000
+}
+
+.light .sqs-block-form .field-list .question {
+    color: #000
+}
+
+.light .sqs-block-form .sqs-editable-button {
+    background: #000;
+    color: #fff
+}
+
+.primary-button-style-outline .light .sqs-block-form .sqs-editable-button {
+    background: transparent;
+    color: #000;
+    border-color: #000
+}
+
+.no-touch .primary-button-style-outline .light .sqs-block-form .sqs-editable-button:hover {
+    background: #000;
+    color: #fff
+}
+
+.light .sqs-block-quote blockquote {
+    color: #000
+}
+
+.light .sqs-block-quote .source {
+    color: #000
+}
+
+.light .sqs-block-newsletter .newsletter-form-header-title {
+    color: #000
+}
+
+.light .sqs-block-newsletter .newsletter-form-header-description {
+    color: #000
+}
+
+.light .sqs-block-newsletter .newsletter-form-field-element {
+    border: 1px solid rgba(0, 0, 0, .12)
+}
+
+.light .sqs-block-newsletter .newsletter-form-button {
+    background-color: #000 !important;
+    color: #fff !important
+}
+
+.primary-button-style-outline .light .sqs-block-newsletter .newsletter-form-button {
+    background-color: transparent !important;
+    color: #000 !important;
+    border-color: #000 !important
+}
+
+.no-touch .primary-button-style-outline .light .sqs-block-newsletter .newsletter-form-button:hover {
+    background-color: #000 !important;
+    color: #fff !important
+}
+
+.light .sqs-block-newsletter .newsletter-form-footnote {
+    color: #000 !important
+}
+
+.light .sqs-block-summary-v2 .summary-header-text {
+    color: #000
+}
+
+.light .sqs-block-summary-v2 .summary-title {
+    color: #000
+}
+
+.light .sqs-block-summary-v2 .summary-excerpt {
+    color: #000
+}
+
+.light .sqs-block-summary-v2 .summary-read-more-link {
+    color: #000
+}
+
+.light .sqs-block-summary-v2 .summary-metadata--primary {
+    color: #000
+}
+
+.light .sqs-block-summary-v2 .summary-metadata--secondary {
+    color: #000
+}
+
+.light .product-scarcity {
+    color: #000
+}
+
+.light .socialaccountlinks-v2-block .sqs-svg-icon--wrapper, .light .social-account-links-v2-block .sqs-svg-icon--wrapper {
+    transition: opacity 170ms ease-in-out
+}
+
+.light .socialaccountlinks-v2-block .sqs-svg-icon--social, .light .social-account-links-v2-block .sqs-svg-icon--social, .light .socialaccountlinks-v2-block .sqs-use--icon, .light .social-account-links-v2-block .sqs-use--icon, .light .socialaccountlinks-v2-block .sqs-use--mask, .light .social-account-links-v2-block .sqs-use--mask {
+    fill: transparent
+}
+
+.light .socialaccountlinks-v2-block .sqs-svg-icon--wrapper:hover, .light .social-account-links-v2-block .sqs-svg-icon--wrapper:hover {
+    opacity: .8
+}
+
+.light .socialaccountlinks-v2-block .social-icons-style-regular .sqs-use--icon, .light .social-account-links-v2-block .social-icons-style-regular .sqs-use--icon {
+    fill: #000
+}
+
+.light .socialaccountlinks-v2-block .social-icons-style-knockout .sqs-use--mask, .light .social-account-links-v2-block .social-icons-style-knockout .sqs-use--mask {
+    fill: #000
+}
+
+.light .socialaccountlinks-v2-block .social-icons-style-solid .sqs-svg-icon--wrapper, .light .social-account-links-v2-block .social-icons-style-solid .sqs-svg-icon--wrapper {
+    background-color: #000
+}
+
+.light .socialaccountlinks-v2-block .social-icons-style-solid .sqs-use--icon, .light .social-account-links-v2-block .social-icons-style-solid .sqs-use--icon {
+    fill: #f5f5f4
+}
+
+.light .socialaccountlinks-v2-block .social-icons-style-border .sqs-svg-icon--wrapper, .light .social-account-links-v2-block .social-icons-style-border .sqs-svg-icon--wrapper {
+    border-color: #000
+}
+
+.light .socialaccountlinks-v2-block .social-icons-style-border .sqs-use--icon, .light .social-account-links-v2-block .social-icons-style-border .sqs-use--icon {
+    fill: #000
+}
+
+/*! Squarespace LESS Compiler  (less.js language v1.3.3)  */
+.bright.page-section {
+    color: #000
+}
+
+.bright.page-section.background-width--inset {
+    background-color: #000
+}
+
+.bright:not(.has-background) .section-background {
+    background-color: #f57c00
+}
+
+.bright h1 {
+    color: #000
+}
+
+.bright h2 {
+    color: #000
+}
+
+.bright h3 {
+    color: #000
+}
+
+.bright h4 {
+    color: #000
+}
+
+.bright .sqsrte-large {
+    color: #000
+}
+
+.bright .sqsrte-small {
+    color: #000
+}
+
+.bright .sqs-block-html a, .bright .read-more-link, .bright .entry-excerpt a {
+    color: #000
+}
+
+.bright :focus, .bright a:focus {
+    outline-color: #000
+}
+
+.bright .sqs-search-page-input.focus-within {
+    outline-color: #000
+}
+
+.bright .sqs-search-page-input:focus-within {
+    outline-color: #000
+}
+
+.bright .header[data-first-focusable-element][data-focus-visible-added] .header-announcement-bar-wrapper {
+    outline-color: #000
+}
+
+.bright .ProductItem .variant-radiobtn[data-focus-visible-added] + label {
+    outline-color: #000
+}
+
+.bright .product-item-gallery-carousel-control:focus {
+    outline-color: #000
+}
+
+.bright .sqs-modal-lightbox :focus {
+    outline-color: #000
+}
+
+.bright .sqs-modal-lightbox.sqs-product-quick-view-lightbox :focus {
+    outline-color: #000
+}
+
+.bright .sqs-modal-lightbox.sqs-product-quick-view-lightbox .sqs-product-quick-view-content :focus {
+    outline-color: #000
+}
+
+.bright .sqs-modal-lightbox.sqs-product-quick-view-lightbox .sqs-product-quick-view-content .product-item-gallery-carousel-control:focus {
+    outline-color: #000
+}
+
+.bright .sqs-block-button-element, .bright .image-button a, .bright .header-actions .btn, .bright .header-skip-link {
+    color: #f57c00;
+    background-color: #000;
+    border-color: #000
+}
+
+.primary-button-style-outline .bright .sqs-block-button-element--small, .primary-button-style-outline .bright .sqs-block-button-element--medium, .primary-button-style-outline .bright .sqs-block-button-element--large, .primary-button-style-outline .bright .header-actions .btn {
+    color: #000;
+    border-color: #000;
+    background: transparent
+}
+
+.no-touch .primary-button-style-outline .bright .sqs-block-button-element--small:hover, .no-touch .primary-button-style-outline .bright .sqs-block-button-element--medium:hover, .no-touch .primary-button-style-outline .bright .sqs-block-button-element--large:hover, .no-touch .primary-button-style-outline .bright .header-actions .btn:hover {
+    background: #000;
+    color: #f57c00
+}
+
+.bright .sqs-block-html a, .bright .image-title-wrapper a, .bright .image-subtitle-wrapper a, .bright .sqs-image-caption a, .bright .image-caption a, .bright .sqs-block-newsletter a {
+    background-repeat: repeat-x;
+    background-image: linear-gradient(to right, currentColor 100%, currentColor 0);
+    background-size: 1px 1px;
+    background-position: 0 100%;
+    white-space: initial
+}
+
+.bright .sqs-block-html a:hover, .bright .image-title-wrapper a:hover, .bright .image-subtitle-wrapper a:hover, .bright .sqs-image-caption a:hover, .bright .image-caption a:hover, .bright .sqs-block-newsletter a:hover {
+    opacity: .7
+}
+
+body:not(.button-style-default) .bright .sqs-editable-button, body.button-style-default .bright .sqs-editable-button, body:not(.button-style-default) .bright .sqs-editable-button-layout, body.button-style-default .bright .sqs-editable-button-layout, body:not(.button-style-default) .bright .sqs-editable-button-font, body.button-style-default .bright .sqs-editable-button-font, body:not(.button-style-default) .bright .sqs-editable-button-color, body.button-style-default .bright .sqs-editable-button-color, body:not(.button-style-default) .bright .sqs-editable-button-style, body.button-style-default .bright .sqs-editable-button-style, body:not(.button-style-default) .bright .sqs-editable-button-shape, body.button-style-default .bright .sqs-editable-button-shape, body:not(.button-style-default) .bright .sqs-add-to-cart-button, body.button-style-default .bright .sqs-add-to-cart-button, body:not(.button-style-default) .bright .newsletter-form-button, body.button-style-default .bright .newsletter-form-button {
+    color: #f57c00;
+    background-color: #000;
+    border-color: #000
+}
+
+.no-touch body:not(.button-style-default) .bright .sqs-editable-button.comment-btn:hover, .no-touch body.button-style-default .bright .sqs-editable-button.comment-btn:hover, .no-touch body:not(.button-style-default) .bright .sqs-editable-button-layout.comment-btn:hover, .no-touch body.button-style-default .bright .sqs-editable-button-layout.comment-btn:hover, .no-touch body:not(.button-style-default) .bright .sqs-editable-button-font.comment-btn:hover, .no-touch body.button-style-default .bright .sqs-editable-button-font.comment-btn:hover, .no-touch body:not(.button-style-default) .bright .sqs-editable-button-color.comment-btn:hover, .no-touch body.button-style-default .bright .sqs-editable-button-color.comment-btn:hover, .no-touch body:not(.button-style-default) .bright .sqs-editable-button-style.comment-btn:hover, .no-touch body.button-style-default .bright .sqs-editable-button-style.comment-btn:hover, .no-touch body:not(.button-style-default) .bright .sqs-editable-button-shape.comment-btn:hover, .no-touch body.button-style-default .bright .sqs-editable-button-shape.comment-btn:hover, .no-touch body:not(.button-style-default) .bright .sqs-add-to-cart-button.comment-btn:hover, .no-touch body.button-style-default .bright .sqs-add-to-cart-button.comment-btn:hover, .no-touch body:not(.button-style-default) .bright .newsletter-form-button.comment-btn:hover, .no-touch body.button-style-default .bright .newsletter-form-button.comment-btn:hover {
+    background-color: #000
+}
+
+body.primary-button-style-outline .bright .sqs-editable-button, body.primary-button-style-outline .bright .sqs-editable-button-layout, body.primary-button-style-outline .bright .sqs-editable-button-font, body.primary-button-style-outline .bright .sqs-editable-button-color, body.primary-button-style-outline .bright .sqs-editable-button-style, body.primary-button-style-outline .bright .sqs-editable-button-shape, body.primary-button-style-outline .bright .sqs-add-to-cart-button, body.primary-button-style-outline .bright .newsletter-form-button {
+    color: #000;
+    border-color: #000;
+    background: transparent
+}
+
+.no-touch body.primary-button-style-outline .bright .sqs-editable-button:hover, .no-touch body.primary-button-style-outline .bright .sqs-editable-button-layout:hover, .no-touch body.primary-button-style-outline .bright .sqs-editable-button-font:hover, .no-touch body.primary-button-style-outline .bright .sqs-editable-button-color:hover, .no-touch body.primary-button-style-outline .bright .sqs-editable-button-style:hover, .no-touch body.primary-button-style-outline .bright .sqs-editable-button-shape:hover, .no-touch body.primary-button-style-outline .bright .sqs-add-to-cart-button:hover, .no-touch body.primary-button-style-outline .bright .newsletter-form-button:hover, .no-touch body.primary-button-style-outline .bright .sqs-editable-button.comment-btn:hover, .no-touch body.primary-button-style-outline .bright .sqs-editable-button-layout.comment-btn:hover, .no-touch body.primary-button-style-outline .bright .sqs-editable-button-font.comment-btn:hover, .no-touch body.primary-button-style-outline .bright .sqs-editable-button-color.comment-btn:hover, .no-touch body.primary-button-style-outline .bright .sqs-editable-button-style.comment-btn:hover, .no-touch body.primary-button-style-outline .bright .sqs-editable-button-shape.comment-btn:hover, .no-touch body.primary-button-style-outline .bright .sqs-add-to-cart-button.comment-btn:hover, .no-touch body.primary-button-style-outline .bright .newsletter-form-button.comment-btn:hover {
+    background: #000;
+    color: #f57c00
+}
+
+.no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .bright .image-button a:hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .bright .sqs-add-to-cart-button:hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .bright .sqs-editable-button:not(input):hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .bright .sqs-block-button-element:hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .bright [data-animation-role="header-element"] .btn:hover {
+    color: #000
+}
+
+.no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .bright .image-button a::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .bright .sqs-add-to-cart-button::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .bright .sqs-editable-button:not(input)::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .bright .sqs-block-button-element::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-solid .bright [data-animation-role="header-element"] .btn::before {
+    border-color: #000;
+    background-color: #f57c00
+}
+
+.no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .image-button a:hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-add-to-cart-button:hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-editable-button:not(input):hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-button-element:hover, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright [data-animation-role="header-element"] .btn:hover {
+    background-color: transparent !important;
+    color: #f57c00
+}
+
+.no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .image-button a::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-add-to-cart-button::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-editable-button:not(input)::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright .sqs-block-button-element::before, .no-touch .tweak-global-animations-animation-type-flex.primary-button-style-outline .bright [data-animation-role="header-element"] .btn::before {
+    border-color: #000;
+    background-color: #000
+}
+
+.bright .sqs-block-horizontalrule hr {
+    background-color: #000
+}
+
+.bright .section-background-overlay {
+    background-color: #f57c00
+}
+
+.bright .floating-cart {
+    background-color: #000;
+    color: #f57c00
+}
+
+.bright .floating-cart :focus {
+    outline-color: #f57c00
+}
+
+.bright .floating-cart .icon--stroke svg {
+    stroke: #f57c00
+}
+
+.tweak-transparent-header .sections .bright.page-section:first-child.background-width--full-bleed.has-background .section-background:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(#55ff00, 150px, transparent);
+    opacity: .05
+}
+
+body[data-menu-overlay-theme-switcher="true"] .header.bright {
+    background-color: #f57c00
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .header-title-text a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .header-nav-folder-content {
+    background-color: #f57c00
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .header-nav-wrapper a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .header-nav-wrapper .header-nav-item--active a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .user-accounts-text-link {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .cart-text-link {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .burger-inner .top-bun, body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .burger-inner .patty, body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .burger-inner .bottom-bun {
+    background-color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .header-actions .icon--stroke svg {
+    stroke: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .header-actions .icon--fill svg {
+    fill: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .header-actions .icon-cart-quantity {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .header-nav-item--active a {
+    background-repeat: repeat-x;
+    background-image: linear-gradient(to right, currentColor 100%, currentColor 0);
+    background-size: 1px 1px;
+    background-position: 0 calc(100% - 0.1em);
+    white-space: initial
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .header-nav-item--active a:hover {
+    opacity: .7
+}
+
+body[data-menu-overlay-theme-switcher="true"]:not(.header--menu-open) .bright .header-nav-item--active .header-nav-folder-item a {
+    background: none
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.bright .header-title-text a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.bright .header-burger .top-bun, body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.bright .header-burger .patty, body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.bright .header-burger .bottom-bun {
+    background-color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.bright .header-nav-folder-content {
+    background-color: #f57c00
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.bright .header-nav-wrapper a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.bright .header-nav-wrapper .header-menu-nav-item--active a, body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.bright .header-nav-wrapper .header-nav-item--active a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.bright .user-accounts-text-link {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.bright .cart-text-link {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.bright .header-actions .icon--stroke svg {
+    stroke: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.bright .header-actions .icon--fill svg {
+    fill: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].header--menu-open .header.bright .header-actions .icon-cart-quantity {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"] .header-menu.bright .header-menu-bg {
+    background-color: #f57c00
+}
+
+body[data-menu-overlay-theme-switcher="true"] .header-menu.bright .header-menu-nav a:not(.btn) {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"] .header-menu.bright .header-menu-nav .header-menu-nav-item--active a, body[data-menu-overlay-theme-switcher="true"] .header-menu.bright .header-menu-nav .header-nav-item--active a {
+    color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"] .header-menu.bright .header-menu-cta a {
+    color: #f57c00;
+    background-color: #000;
+    border-color: #000
+}
+
+body[data-menu-overlay-theme-switcher="true"].primary-button-style-outline .header-menu.bright .header-menu-cta a {
+    color: #000;
+    border-color: #000;
+    background: transparent
+}
+
+.no-touch body[data-menu-overlay-theme-switcher="true"].primary-button-style-outline .header-menu.bright .header-menu-cta a:hover {
+    background: #000;
+    color: #f57c00
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-announcement-bar-wrapper {
+    background-color: #f57c00
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-title-text a {
+    color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-menu-bg, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-nav-folder-content {
+    background-color: #f57c00
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-nav-wrapper a, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-menu-nav a {
+    color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-nav-wrapper .header-menu-nav-item--active a, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-menu-nav .header-menu-nav-item--active a, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-nav-wrapper .header-nav-item--active a, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-menu-nav .header-nav-item--active a {
+    color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .user-accounts-text-link {
+    color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .cart-text-link {
+    color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .burger-inner .top-bun, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .burger-inner .patty, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .burger-inner .bottom-bun {
+    background-color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-actions .icon--stroke svg, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-menu-actions .icon--stroke svg {
+    stroke: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-actions .icon--fill svg, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-menu-actions .icon--fill svg {
+    fill: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-actions .icon-cart-quantity, body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-menu-actions .icon-cart-quantity {
+    color: #000
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-nav-item--active a {
+    background-repeat: repeat-x;
+    background-image: linear-gradient(to right, currentColor 100%, currentColor 0);
+    background-size: 1px 1px;
+    background-position: 0 calc(100% - 0.1em);
+    white-space: initial
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-nav-item--active a:hover {
+    opacity: .7
+}
+
+body:not(.tweak-transparent-header):not([data-menu-overlay-theme-switcher="true"]) .bright .header-nav-item--active .header-nav-folder-item a {
+    background: none
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright {
+    background-color: #f57c00
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-title-text a {
+    color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-nav-folder-content {
+    background-color: #f57c00
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-nav-wrapper a {
+    color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-nav-wrapper .header-menu-nav-item--active a, .tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-nav-wrapper .header-nav-item--active a {
+    color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .user-accounts-text-link {
+    color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .cart-text-link {
+    color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .burger-inner .top-bun, .tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .burger-inner .patty, .tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .burger-inner .bottom-bun {
+    background-color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-actions .icon--stroke svg, .tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-menu-actions .icon--stroke svg {
+    stroke: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-actions .icon--fill svg, .tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-menu-actions .icon--fill svg {
+    fill: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-actions .icon-cart-quantity, .tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-menu-actions .icon-cart-quantity {
+    color: #000
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-nav-item--active a {
+    background-repeat: repeat-x;
+    background-image: linear-gradient(to right, currentColor 100%, currentColor 0);
+    background-size: 1px 1px;
+    background-position: 0 calc(100% - 0.1em);
+    white-space: initial
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-nav-item--active a:hover {
+    opacity: .7
+}
+
+.tweak-transparent-header:not(.header--menu-open):not([data-menu-overlay-theme-switcher="true"]) .header-announcement-bar-wrapper.bright .header-nav-item--active .header-nav-folder-item a {
+    background: none
+}
+
+.bright .tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .burger-inner .top-bun, .bright .tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .burger-inner .patty, .bright .tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .burger-inner .bottom-bun {
+    background-color: #000
+}
+
+.bright .tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-actions-action .icon--stroke svg {
+    stroke: #000
+}
+
+.bright .tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-actions-action .icon--fill svg {
+    fill: #000
+}
+
+.bright .tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-actions-action .icon-cart-quantity {
+    color: #000
+}
+
+.bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-bg, .bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-bg {
+    background-color: #f57c00
+}
+
+.bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-nav a, .bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-nav a {
+    color: #000
+}
+
+.bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .mobile-header-title-text, .bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .mobile-header-title-text {
+    color: #000
+}
+
+.bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .burger-inner .top-bun, .bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .burger-inner .top-bun, .bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .burger-inner .patty, .bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .burger-inner .patty, .bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .burger-inner .bottom-bun, .bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .burger-inner .bottom-bun {
+    background-color: #000
+}
+
+.bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-actions .icon--stroke svg, .bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-actions .icon--stroke svg, .bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-actions-action .icon--stroke svg, .bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-actions-action .icon--stroke svg {
+    stroke: #000
+}
+
+.bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-actions .icon--fill svg, .bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-actions .icon--fill svg, .bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-actions-action .icon--fill svg, .bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-actions-action .icon--fill svg {
+    fill: #000
+}
+
+.bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-actions .icon-cart-quantity, .bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-actions .icon-cart-quantity, .bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-actions-action .icon-cart-quantity, .bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-actions-action .icon-cart-quantity {
+    color: #000
+}
+
+.bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-cta a, .bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-cta a {
+    color: #f57c00;
+    background-color: #000;
+    border-color: #000
+}
+
+.primary-button-style-outline.bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-cta a, .primary-button-style-outline.bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-cta a {
+    color: #000;
+    border-color: #000;
+    background: transparent
+}
+
+.no-touch .primary-button-style-outline.bright .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-cta a:hover, .no-touch .primary-button-style-outline.bright .header--menu-open.tweak-transparent-header:not([data-menu-overlay-theme-switcher="true"]) .header-menu .header-menu-cta a:hover {
+    background: #000;
+    color: #f57c00
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.bright .header-menu-bg {
+    background-color: #f57c00
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.bright .header-menu-nav a {
+    color: #000
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.bright .mobile-header-title-text {
+    color: #000
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.bright .burger-inner .top-bun, .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.bright .burger-inner .patty, .header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.bright .burger-inner .bottom-bun {
+    background-color: #000
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.bright .header-menu-actions .icon--stroke svg {
+    stroke: #000
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.bright .header-menu-actions .icon--fill svg {
+    fill: #000
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.bright .header-menu-actions .icon-cart-quantity {
+    color: #000
+}
+
+.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.bright .header-menu-cta a {
+    color: #f57c00;
+    background-color: #000;
+    border-color: #000
+}
+
+.primary-button-style-outline.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.bright .header-menu-cta a {
+    color: #000;
+    border-color: #000;
+    background: transparent
+}
+
+.no-touch .primary-button-style-outline.header--menu-open:not([data-menu-overlay-theme-switcher="true"]) .header-menu.bright .header-menu-cta a:hover {
+    background: #000;
+    color: #f57c00
+}
+
+.bright .sqs-announcement-bar {
+    background: #000
+}
+
+.bright .sqs-announcement-bar :focus, .bright .sqs-announcement-bar a:focus {
+    outline-color: #f57c00
+}
+
+.bright .sqs-announcement-bar-text p, .bright .sqs-announcement-bar-text a {
+    color: #f57c00
+}
+
+.bright .sqs-announcement-bar-close {
+    background: transparent;
+    color: #f57c00
+}
+
+.bright .gallery-fullscreen-slideshow-control-btn::before, .bright .gallery-slideshow-control-btn::before {
+    background: #f57c00
+}
+
+.bright .gallery-fullscreen-slideshow-control-btn svg, .bright .gallery-slideshow-control-btn svg {
+    stroke: #000
+}
+
+.bright .gallery-fullscreen-slideshow-bullet {
+    border-color: #f57c00;
+    background-color: transparent
+}
+
+.bright .gallery-fullscreen-slideshow-bullet.active {
+    background-color: #f57c00
+}
+
+.bright .gallery-lightbox-background {
+    background-color: #f57c00;
+    opacity: .9
+}
+
+.bright .gallery-lightbox-control-btn {
+    color: #000
+}
+
+.bright .gallery-lightbox-control-btn .gallery-lightbox-control-btn-icon svg * {
+    stroke: currentColor
+}
+
+.bright .gallery-lightbox-close-btn {
+    color: #000
+}
+
+.bright .gallery-lightbox-close-btn .gallery-lightbox-close-btn-icon svg * {
+    stroke: currentColor
+}
+
+.bright .user-items-list-simple .list-item-content__title {
+    color: #000
+}
+
+.bright .user-items-list-simple .list-item-content__description {
+    color: #000
+}
+
+.bright .user-items-list-simple .list-item-content__button {
+    color: #f57c00;
+    background-color: #000
+}
+
+.bright .user-items-list-simple .list-item[data-is-card-enabled="true"] {
+    background-color: #f5f5f4
+}
+
+.bright .user-items-list-simple .list-image-placeholder {
+    background-color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-simple.bright .list-item[data-is-card-enabled="true"] {
+    background-color: #f57c00
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-simple.bright .list-item[data-is-card-enabled="true"] .list-item-content__title {
+    color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-simple.bright .list-item[data-is-card-enabled="true"] .list-item-content__description {
+    color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-simple.bright .list-item[data-is-card-enabled="true"] .list-item-content__button {
+    color: #f57c00;
+    background-color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-simple.bright .list-item[data-is-card-enabled="true"] .list-image-placeholder {
+    background-color: #f5f5f4
+}
+
+.bright .user-items-list-carousel .list-item-content__title {
+    color: #000
+}
+
+.bright .user-items-list-carousel .list-item-content__description {
+    color: #000
+}
+
+.bright .user-items-list-carousel .list-item-content__button {
+    color: #f57c00;
+    background-color: #000
+}
+
+.bright .user-items-list-carousel .list-item[data-is-card-enabled="true"] {
+    background-color: #f5f5f4
+}
+
+.bright .user-items-list-carousel .user-items-list-carousel__arrow-icon-foreground {
+    stroke: #474747
+}
+
+.bright .user-items-list-carousel .user-items-list-carousel__arrow-icon-background {
+    background-color: #f5f5f4
+}
+
+.bright .user-items-list-carousel .indicator {
+    background-color: #474747;
+    opacity: .3
+}
+
+.bright .user-items-list-carousel .indicator.active {
+    opacity: 1
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-carousel.bright .list-item[data-is-card-enabled="true"] {
+    background-color: #f57c00
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-carousel.bright .list-item[data-is-card-enabled="true"] .list-item-content__title {
+    color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-carousel.bright .list-item[data-is-card-enabled="true"] .list-item-content__description {
+    color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-carousel.bright .list-item[data-is-card-enabled="true"] .list-item-content__button {
+    color: #f57c00;
+    background-color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-carousel.bright .list-item[data-is-card-enabled="true"] .list-image-placeholder {
+    background-color: #f5f5f4
+}
+
+.bright .user-items-list-banner-slideshow .list-item-content__title {
+    color: #000
+}
+
+.bright .user-items-list-banner-slideshow .list-item-content__description {
+    color: #000
+}
+
+.bright .user-items-list-banner-slideshow .list-item-content__button {
+    color: #f57c00;
+    background-color: #000
+}
+
+.bright .user-items-list-banner-slideshow .user-items-list-banner-slideshow__arrow-icon-foreground {
+    stroke: #f5f5f4
+}
+
+.bright .user-items-list-banner-slideshow .user-items-list-banner-slideshow__arrow-icon-background {
+    background-color: #474747
+}
+
+.bright .user-items-list-banner-slideshow .indicator {
+    background-color: #f5f5f4;
+    opacity: .3
+}
+
+.bright .user-items-list-banner-slideshow .indicator.active {
+    opacity: 1
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-banner-slideshow.bright .list-item[data-is-card-enabled="true"] .list-item-card-background {
+    background-color: #f57c00
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-banner-slideshow.bright .list-item[data-is-card-enabled="true"] .list-item-content__title {
+    color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-banner-slideshow.bright .list-item[data-is-card-enabled="true"] .list-item-content__description {
+    color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-banner-slideshow.bright .list-item[data-is-card-enabled="true"] .list-item-content__button {
+    color: #f57c00;
+    background-color: #000
+}
+
+[data-user-items-list-card-themes="true"] .user-items-list-banner-slideshow.bright .list-item[data-is-card-enabled="true"] .list-image-placeholder {
+    background-color: #f5f5f4
+}
+
+.bright .ImageAndText__headline {
+    color: #000
+}
+
+.bright .ImageAndText__subheadline {
+    color: #000
+}
+
+.bright .ImageAndText__button-link {
+    color: #f57c00;
+    background-color: #000
+}
+
+.bright .ImageAndText__text-outer-wrapper[data-text-card-enabled="true"] {
+    background-color: #f5f5f4
+}
+
+.bright .portfolio-grid-overlay .portfolio-title {
+    color: #000
+}
+
+.bright .portfolio-grid-overlay .portfolio-overlay {
+    background-color: #f57c00
+}
+
+.bright .portfolio-grid-basic .portfolio-title {
+    color: #000
+}
+
+.bright .portfolio-hover[data-variant-hover-cover] .portfolio-hover-item-title {
+    color: #000
+}
+
+.bright .collection-type-portfolio-index-background .portfolio-index-background-link h1 {
+    color: #000
+}
+
+.bright .portfolio-hover[data-variant-hover-follow] .portfolio-hover-item-title {
+    color: #000
+}
+
+.bright .portfolio-hover[data-variant-hover-static] .portfolio-hover-item-title {
+    color: #000
+}
+
+.bright .item-pagination[data-collection-type^="portfolio"], .bright.item-pagination[data-collection-type^="portfolio"] {
+    background-color: #f57c00
+}
+
+.bright .item-pagination[data-collection-type^="portfolio"] .item-pagination-icon svg, .bright.item-pagination[data-collection-type^="portfolio"] .item-pagination-icon svg {
+    stroke: #000
+}
+
+.bright .item-pagination[data-collection-type^="portfolio"] .item-pagination-prev-next, .bright.item-pagination[data-collection-type^="portfolio"] .item-pagination-prev-next {
+    color: #000
+}
+
+.bright .item-pagination[data-collection-type^="portfolio"] .item-pagination-title, .bright.item-pagination[data-collection-type^="portfolio"] .item-pagination-title {
+    color: #000
+}
+
+.bright .blog-alternating-side-by-side .blog-more-link {
+    color: #000
+}
+
+.bright .blog-alternating-side-by-side .blog-more-link::after {
+    background: #000
+}
+
+.bright .blog-alternating-side-by-side .blog-title {
+    color: #000
+}
+
+.bright .blog-alternating-side-by-side .blog-categories-list a, .bright .blog-alternating-side-by-side .blog-author, .bright .blog-alternating-side-by-side .blog-date, .bright .blog-alternating-side-by-side .blog-meta-delimiter {
+    color: #000
+}
+
+.bright .blog-alternating-side-by-side .blog-excerpt {
+    color: #000
+}
+
+.bright .blog-alternating-side-by-side .blog-list-pagination {
+    color: #000
+}
+
+.bright .blog-alternating-side-by-side .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #000
+}
+
+.bright .blog-basic-grid .blog-more-link {
+    color: #000
+}
+
+.bright .blog-basic-grid .blog-more-link::after {
+    background: #000
+}
+
+.bright .blog-basic-grid .blog-title {
+    color: #000
+}
+
+.bright .blog-basic-grid .blog-categories-list a, .bright .blog-basic-grid .blog-author, .bright .blog-basic-grid .blog-date, .bright .blog-basic-grid .blog-meta-delimiter {
+    color: #000
+}
+
+.bright .blog-basic-grid .blog-excerpt {
+    color: #000
+}
+
+.bright .blog-basic-grid .blog-list-pagination {
+    color: #000
+}
+
+.bright .blog-basic-grid .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #000
+}
+
+.bright .blog-masonry .blog-more-link {
+    color: #000
+}
+
+.bright .blog-masonry .blog-more-link::after {
+    background: #000
+}
+
+.bright .blog-masonry .blog-title {
+    color: #000
+}
+
+.bright .blog-masonry .blog-categories-list a, .bright .blog-masonry .blog-author, .bright .blog-masonry .blog-date, .bright .blog-masonry .blog-meta-delimiter {
+    color: #000
+}
+
+.bright .blog-masonry .blog-excerpt {
+    color: #000
+}
+
+.bright .blog-masonry .blog-list-pagination {
+    color: #000
+}
+
+.bright .blog-masonry .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #000
+}
+
+.bright .blog-side-by-side .blog-more-link {
+    color: #000
+}
+
+.bright .blog-side-by-side .blog-more-link::after {
+    background: #000
+}
+
+.bright .blog-side-by-side .blog-title {
+    color: #000
+}
+
+.bright .blog-side-by-side .blog-categories-list a, .bright .blog-side-by-side .blog-author, .bright .blog-side-by-side .blog-date, .bright .blog-side-by-side .blog-meta-delimiter {
+    color: #000
+}
+
+.bright .blog-side-by-side .blog-excerpt {
+    color: #000
+}
+
+.bright .blog-side-by-side .blog-list-pagination {
+    color: #000
+}
+
+.bright .blog-side-by-side .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #000
+}
+
+.bright .blog-single-column .blog-more-link {
+    color: #000
+}
+
+.bright .blog-single-column .blog-more-link::after {
+    background: #000
+}
+
+.bright .blog-single-column .blog-title {
+    color: #000
+}
+
+.bright .blog-single-column .blog-categories-list a, .bright .blog-single-column .blog-author, .bright .blog-single-column .blog-date, .bright .blog-single-column .blog-meta-delimiter {
+    color: #000
+}
+
+.bright .blog-single-column .blog-excerpt {
+    color: #000
+}
+
+.bright .blog-single-column .blog-list-pagination {
+    color: #000
+}
+
+.bright .blog-single-column .blog-list-pagination .blog-list-pagination-icon {
+    stroke: #000
+}
+
+.bright .blog-item-wrapper .blog-item-title h1.entry-title {
+    color: #000
+}
+
+.bright .blog-item-wrapper .blog-meta-item, .bright .blog-item-wrapper .blog-meta-item a, .bright .blog-item-wrapper .blog-meta-item span {
+    text-decoration: none;
+    color: #000
+}
+
+.bright .blog-item-wrapper .author-name, .bright .blog-item-wrapper .author-website, .bright .blog-item-wrapper .author-bio {
+    color: #000
+}
+
+.bright .blog-item-wrapper #comments .header-controls, .bright .blog-item-wrapper #comments .header-controls .comment-count, .bright .blog-item-wrapper .comment-header .user-info, .bright .blog-item-wrapper .comment-header .controls {
+    color: #000
+}
+
+.bright .blog-item-wrapper .comment-body * {
+    color: #000
+}
+
+.bright .item-pagination[data-collection-type^="blog"], .bright.item-pagination[data-collection-type^="blog"] {
+    background-color: #f57c00
+}
+
+.bright .item-pagination[data-collection-type^="blog"] .item-pagination-icon svg, .bright.item-pagination[data-collection-type^="blog"] .item-pagination-icon svg {
+    stroke: #000
+}
+
+.bright .item-pagination[data-collection-type^="blog"] .item-pagination-prev-next, .bright.item-pagination[data-collection-type^="blog"] .item-pagination-prev-next {
+    color: #000
+}
+
+.bright .item-pagination[data-collection-type^="blog"] .item-pagination-title, .bright.item-pagination[data-collection-type^="blog"] .item-pagination-title {
+    color: #000
+}
+
+.bright .products.collection-content-wrapper .grid-item.on-sale .sqs-money-native {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .grid-item.on-sale .original-price .sqs-money-native {
+    color: #000
+}
+
+.bright .products.collection-content-wrapper .product-mark.sale {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .list-pagination .product-list-pagination-icon svg {
+    stroke: #000
+}
+
+.bright .products.collection-content-wrapper .list-pagination-nested-categories {
+    text-transform: uppercase
+}
+
+.bright .products.collection-content-wrapper .list-pagination-nested-categories .product-list-pagination-icon {
+    height: 15px;
+    width: 15px
+}
+
+.bright .products.collection-content-wrapper .list-pagination-nested-categories .list-pagination-next {
+    text-align: right;
+    align-items: center
+}
+
+.bright .products.collection-content-wrapper .list-pagination-nested-categories .list-pagination-prev {
+    align-items: center
+}
+
+.bright .products.collection-content-wrapper .category-filter-delimiter {
+    color: #000
+}
+
+.bright .products.collection-content-wrapper .category-filter-link::after {
+    background: #000
+}
+
+.no-touch .bright .products.collection-content-wrapper .category-filter-link:hover, .bright .products.collection-content-wrapper .category-filter-link.category-filter-link-all, .bright .products.collection-content-wrapper .category-filter-link.active {
+    color: #000
+}
+
+.bright .products.collection-content-wrapper .category-filter-list.other-active .category-filter-link {
+    color: #000
+}
+
+.no-touch .bright .products.collection-content-wrapper .category-filter-list.other-active .category-filter-link:hover, .bright .products.collection-content-wrapper .category-filter-list.other-active .category-filter-link.active {
+    color: #000
+}
+
+.bright .products.collection-content-wrapper .grid-main-meta .grid-title {
+    color: #000
+}
+
+.bright .products.collection-content-wrapper .grid-main-meta .grid-prices {
+    color: #000
+}
+
+.bright .products.collection-content-wrapper .grid-main-meta .grid-meta-status {
+    color: #fff
+}
+
+.bright .products.collection-content-wrapper .product-scarcity {
+    color: #000
+}
+
+.bright .ProductItem.on-sale .ProductItem-details .product-price .sqs-money-native {
+    color: #000
+}
+
+.bright .ProductItem .ProductItem-details {
+    color: #000
+}
+
+.bright .ProductItem .ProductItem-details h1.ProductItem-details-title {
+    color: #000
+}
+
+.bright .ProductItem .ProductItem-details .product-price {
+    color: #000
+}
+
+.bright .ProductItem .ProductItem-details .product-price, .bright .ProductItem .ProductItem-details .product-price .original-price .sqs-money-native {
+    color: #000
+}
+
+.bright .ProductItem .ProductItem-details .product-scarcity {
+    color: #fff
+}
+
+.bright .ProductItem .ProductItem-details .variant-option, .bright .ProductItem .ProductItem-details .product-quantity-input, .bright .ProductItem .ProductItem-details .product-quantity-input input {
+    color: #000
+}
+
+.bright .ProductItem .ProductItem-details .variant-select-wrapper:after {
+    border-bottom-color: #000;
+    border-right-color: #000
+}
+
+.bright .ProductItem .ProductItem-nav-breadcrumb span, .bright .ProductItem .ProductItem-nav-pagination span, .bright .ProductItem .ProductItem-nav-breadcrumb a, .bright .ProductItem .ProductItem-nav-pagination a {
+    color: #000
+}
+
+.bright .ProductItem .product-item-gallery-carousel-control::after {
+    border-color: #000
+}
+
+.bright .ProductItem .ProductItem-gallery-current-slide-indicator {
+    color: #000
+}
+
+.bright .ProductItem .ProductItem-gallery-scroll::after {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #f57c00 100%)
+}
+
+.bright .sqs-product-quick-view-content {
+    background-color: #f57c00
+}
+
+.bright [data-quick-view-lightbox-colors="true"] .sqs-product-quick-view-content {
+    background-color: #fff
+}
+
+.bright .product-block .product-quantity-input input {
+    color: #000 !important
+}
+
+.bright .item-pagination[data-collection-type^="events"], .bright.item-pagination[data-collection-type^="events"] {
+    background-color: #f57c00
+}
+
+.bright .item-pagination[data-collection-type^="events"] .item-pagination-icon svg, .bright.item-pagination[data-collection-type^="events"] .item-pagination-icon svg {
+    stroke: #000
+}
+
+.bright .item-pagination[data-collection-type^="events"] .events-item-pagination-date, .bright.item-pagination[data-collection-type^="events"] .events-item-pagination-date {
+    color: #000
+}
+
+.bright .item-pagination[data-collection-type^="events"] .item-pagination-title, .bright.item-pagination[data-collection-type^="events"] .item-pagination-title {
+    color: #000
+}
+
+.bright .sqs-block-collectionlink .collectionlink-title {
+    color: #000
+}
+
+.bright .image-overlay, .bright .sqs-image-content::after {
+    background-color: #f57c00
+}
+
+.bright .sqs-block-image .design-layout-poster .sqs-image-content::after, .bright .sqs-block-image .design-layout-poster .image-overlay {
+    background-color: #474747
+}
+
+.bright .sqs-block-image .design-layout-poster .image-title * {
+    color: #fff
+}
+
+.bright .sqs-block-image .design-layout-poster .image-subtitle * {
+    color: #fff
+}
+
+.bright .sqs-block-image .design-layout-poster .image-title a, .bright .sqs-block-image .design-layout-poster .image-subtitle a {
+    color: #fff
+}
+
+.no-touch .bright .sqs-block-image .design-layout-poster .image-title a:hover, .no-touch .bright .sqs-block-image .design-layout-poster .image-subtitle a:hover {
+    opacity: .8
+}
+
+.bright .sqs-block-image .design-layout-poster .image-title * {
+    background-color: rgba(85, 255, 0, 0);
+    box-shadow: .2em 0 0 rgba(85, 255, 0, 0), -.2em 0 0 rgba(85, 255, 0, 0)
+}
+
+.primary-button-style-solid .bright .sqs-block-image .design-layout-poster .image-button a {
+    background: #000;
+    color: #f57c00
+}
+
+.primary-button-style-outline .bright .sqs-block-image .design-layout-poster .image-button a {
+    background: transparent;
+    color: #000;
+    border: 2px solid #000
+}
+
+.no-touch .primary-button-style-outline .bright .sqs-block-image .design-layout-poster .image-button a:hover {
+    background: #000;
+    color: #f57c00
+}
+
+.bright .sqs-block-image .design-layout-card .sqs-image-content::after, .bright .sqs-block-image .design-layout-card .image-overlay {
+    background-color: #474747
+}
+
+.bright .sqs-block-image .design-layout-card .image-title * {
+    color: #000
+}
+
+.bright .sqs-block-image .design-layout-card .image-subtitle * {
+    color: #000
+}
+
+.bright .sqs-block-image .design-layout-card .image-title a, .bright .sqs-block-image .design-layout-card .image-subtitle a {
+    color: #000
+}
+
+.no-touch .bright .sqs-block-image .design-layout-card .image-title a:hover, .no-touch .bright .sqs-block-image .design-layout-card .image-subtitle a:hover {
+    opacity: .8
+}
+
+.bright .sqs-block-image .design-layout-card .image-title * {
+    background-color: rgba(85, 255, 0, 0);
+    box-shadow: .2em 0 0 rgba(85, 255, 0, 0), -.2em 0 0 rgba(85, 255, 0, 0)
+}
+
+.primary-button-style-solid .bright .sqs-block-image .design-layout-card .image-button a {
+    background: #000;
+    color: #f57c00
+}
+
+.primary-button-style-outline .bright .sqs-block-image .design-layout-card .image-button a {
+    background: transparent;
+    color: #000;
+    border: 2px solid #000
+}
+
+.no-touch .primary-button-style-outline .bright .sqs-block-image .design-layout-card .image-button a:hover {
+    background: #000;
+    color: #f57c00
+}
+
+.bright .sqs-block-image .design-layout-overlap .sqs-image-content::after, .bright .sqs-block-image .design-layout-overlap .image-overlay {
+    background-color: #474747
+}
+
+.bright .sqs-block-image .design-layout-overlap .image-title * {
+    color: #000
+}
+
+.bright .sqs-block-image .design-layout-overlap .image-subtitle * {
+    color: #000
+}
+
+.bright .sqs-block-image .design-layout-overlap .image-title a, .bright .sqs-block-image .design-layout-overlap .image-subtitle a {
+    color: #000
+}
+
+.no-touch .bright .sqs-block-image .design-layout-overlap .image-title a:hover, .no-touch .bright .sqs-block-image .design-layout-overlap .image-subtitle a:hover {
+    opacity: .8
+}
+
+.bright .sqs-block-image .design-layout-overlap .image-title * {
+    background-color: #f57c00;
+    box-shadow: .2em 0 0 #f57c00, -.2em 0 0 #f57c00
+}
+
+.primary-button-style-solid .bright .sqs-block-image .design-layout-overlap .image-button a {
+    background: #000;
+    color: #f57c00
+}
+
+.primary-button-style-outline .bright .sqs-block-image .design-layout-overlap .image-button a {
+    background: transparent;
+    color: #000;
+    border: 2px solid #000
+}
+
+.no-touch .primary-button-style-outline .bright .sqs-block-image .design-layout-overlap .image-button a:hover {
+    background: #000;
+    color: #f57c00
+}
+
+.bright .sqs-block-image .design-layout-collage .sqs-image-content::after, .bright .sqs-block-image .design-layout-collage .image-overlay {
+    background-color: #474747
+}
+
+.bright .sqs-block-image .design-layout-collage .image-card {
+    background-color: #000
+}
+
+.bright .sqs-block-image .design-layout-collage .image-title * {
+    color: #f57c00
+}
+
+.bright .sqs-block-image .design-layout-collage .image-subtitle * {
+    color: #f57c00
+}
+
+.bright .sqs-block-image .design-layout-collage .image-title a, .bright .sqs-block-image .design-layout-collage .image-subtitle a {
+    color: #f57c00
+}
+
+.no-touch .bright .sqs-block-image .design-layout-collage .image-title a:hover, .no-touch .bright .sqs-block-image .design-layout-collage .image-subtitle a:hover {
+    opacity: .8
+}
+
+.bright .sqs-block-image .design-layout-collage .image-title * {
+    background-color: rgba(85, 255, 0, 0);
+    box-shadow: .2em 0 0 rgba(85, 255, 0, 0), -.2em 0 0 rgba(85, 255, 0, 0)
+}
+
+.primary-button-style-solid .bright .sqs-block-image .design-layout-collage .image-button a {
+    background: #f57c00;
+    color: #000
+}
+
+.primary-button-style-outline .bright .sqs-block-image .design-layout-collage .image-button a {
+    background: transparent;
+    color: #f57c00;
+    border: 2px solid #f57c00
+}
+
+.no-touch .primary-button-style-outline .bright .sqs-block-image .design-layout-collage .image-button a:hover {
+    background: #f57c00;
+    color: #000
+}
+
+.bright .sqs-block-image .design-layout-stack .sqs-image-content::after, .bright .sqs-block-image .design-layout-stack .image-overlay {
+    background-color: #474747
+}
+
+.bright .sqs-block-image .design-layout-stack .image-title * {
+    color: #000
+}
+
+.bright .sqs-block-image .design-layout-stack .image-subtitle * {
+    color: #000
+}
+
+.bright .sqs-block-image .design-layout-stack .image-title a, .bright .sqs-block-image .design-layout-stack .image-subtitle a {
+    color: #000
+}
+
+.no-touch .bright .sqs-block-image .design-layout-stack .image-title a:hover, .no-touch .bright .sqs-block-image .design-layout-stack .image-subtitle a:hover {
+    opacity: .8
+}
+
+.bright .sqs-block-image .design-layout-stack .image-title * {
+    background-color: rgba(85, 255, 0, 0);
+    box-shadow: .2em 0 0 rgba(85, 255, 0, 0), -.2em 0 0 rgba(85, 255, 0, 0)
+}
+
+.primary-button-style-solid .bright .sqs-block-image .design-layout-stack .image-button a {
+    background: #000;
+    color: #f57c00
+}
+
+.primary-button-style-outline .bright .sqs-block-image .design-layout-stack .image-button a {
+    background: transparent;
+    color: #000;
+    border: 2px solid #000
+}
+
+.no-touch .primary-button-style-outline .bright .sqs-block-image .design-layout-stack .image-button a:hover {
+    background: #000;
+    color: #f57c00
+}
+
+.bright .menu-block .menu-select-labels {
+    color: #000
+}
+
+.bright .menu-block .menu-section-title {
+    color: #000
+}
+
+.bright .menu-block .menu-item-title {
+    color: #000
+}
+
+.bright .menu-block .menu-item-description {
+    color: #000
+}
+
+.bright .menu-block .menu-item-price-bottom {
+    color: #000
+}
+
+.bright .sqs-block-form .field-list .title {
+    color: #000
+}
+
+.bright .sqs-block-form .field-list .description {
+    color: #000
+}
+
+.bright .sqs-block-form .field-list .caption {
+    color: #000
+}
+
+.bright .sqs-block-form .field-list ::placeholder {
+    color: #737373;
+    opacity: 1
+}
+
+.bright .sqs-block-form .field-list :-ms-input-placeholder {
+    color: #737373
+}
+
+.bright .sqs-block-form .field-list ::-ms-input-placeholder {
+    color: #737373
+}
+
+.bright .sqs-block-form .field-list .option {
+    color: #000
+}
+
+.bright .sqs-block-form .field-list .question {
+    color: #000
+}
+
+.bright .sqs-block-form .sqs-editable-button {
+    background: #000;
+    color: #f57c00
+}
+
+.primary-button-style-outline .bright .sqs-block-form .sqs-editable-button {
+    background: transparent;
+    color: #000;
+    border-color: #000
+}
+
+.no-touch .primary-button-style-outline .bright .sqs-block-form .sqs-editable-button:hover {
+    background: #000;
+    color: #f57c00
+}
+
+.bright .sqs-block-quote blockquote {
+    color: #000
+}
+
+.bright .sqs-block-quote .source {
+    color: #000
+}
+
+.bright .sqs-block-newsletter .newsletter-form-header-title {
+    color: #000
+}
+
+.bright .sqs-block-newsletter .newsletter-form-header-description {
+    color: #000
+}
+
+.bright .sqs-block-newsletter .newsletter-form-field-element {
+    border: 1px solid rgba(0, 0, 0, .12)
+}
+
+.bright .sqs-block-newsletter .newsletter-form-button {
+    background-color: #000 !important;
+    color: #f57c00 !important
+}
+
+.primary-button-style-outline .bright .sqs-block-newsletter .newsletter-form-button {
+    background-color: transparent !important;
+    color: #000 !important;
+    border-color: #000 !important
+}
+
+.no-touch .primary-button-style-outline .bright .sqs-block-newsletter .newsletter-form-button:hover {
+    background-color: #000 !important;
+    color: #f57c00 !important
+}
+
+.bright .sqs-block-newsletter .newsletter-form-footnote {
+    color: #000 !important
+}
+
+.bright .sqs-block-summary-v2 .summary-header-text {
+    color: #000
+}
+
+.bright .sqs-block-summary-v2 .summary-title {
+    color: #000
+}
+
+.bright .sqs-block-summary-v2 .summary-excerpt {
+    color: #000
+}
+
+.bright .sqs-block-summary-v2 .summary-read-more-link {
+    color: #000
+}
+
+.bright .sqs-block-summary-v2 .summary-metadata--primary {
+    color: #000
+}
+
+.bright .sqs-block-summary-v2 .summary-metadata--secondary {
+    color: #000
+}
+
+.bright .product-scarcity {
+    color: #000
+}
+
+.bright .socialaccountlinks-v2-block .sqs-svg-icon--wrapper, .bright .social-account-links-v2-block .sqs-svg-icon--wrapper {
+    transition: opacity 170ms ease-in-out
+}
+
+.bright .socialaccountlinks-v2-block .sqs-svg-icon--social, .bright .social-account-links-v2-block .sqs-svg-icon--social, .bright .socialaccountlinks-v2-block .sqs-use--icon, .bright .social-account-links-v2-block .sqs-use--icon, .bright .socialaccountlinks-v2-block .sqs-use--mask, .bright .social-account-links-v2-block .sqs-use--mask {
+    fill: transparent
+}
+
+.bright .socialaccountlinks-v2-block .sqs-svg-icon--wrapper:hover, .bright .social-account-links-v2-block .sqs-svg-icon--wrapper:hover {
+    opacity: .8
+}
+
+.bright .socialaccountlinks-v2-block .social-icons-style-regular .sqs-use--icon, .bright .social-account-links-v2-block .social-icons-style-regular .sqs-use--icon {
+    fill: #000
+}
+
+.bright .socialaccountlinks-v2-block .social-icons-style-knockout .sqs-use--mask, .bright .social-account-links-v2-block .social-icons-style-knockout .sqs-use--mask {
+    fill: #000
+}
+
+.bright .socialaccountlinks-v2-block .social-icons-style-solid .sqs-svg-icon--wrapper, .bright .social-account-links-v2-block .social-icons-style-solid .sqs-svg-icon--wrapper {
+    background-color: #000
+}
+
+.bright .socialaccountlinks-v2-block .social-icons-style-solid .sqs-use--icon, .bright .social-account-links-v2-block .social-icons-style-solid .sqs-use--icon {
+    fill: #f57c00
+}
+
+.bright .socialaccountlinks-v2-block .social-icons-style-border .sqs-svg-icon--wrapper, .bright .social-account-links-v2-block .social-icons-style-border .sqs-svg-icon--wrapper {
+    border-color: #000
+}
+
+.bright .socialaccountlinks-v2-block .social-icons-style-border .sqs-use--icon, .bright .social-account-links-v2-block .social-icons-style-border .sqs-use--icon {
+    fill: #000
+}
+
+
+
+/******************************************************
+************** * *    MAIN STYLE    * * ***************
+*******************************************************/
+medium>.content-wrapper {
+    padding-bottom: 30px!important;
+}
+
+select.selectpicker {
+    width: 55px;
+    background: inherit;
+    color: white;
+    border: 0;
+}
+
+select.selectpicker option {
+    background: black;
+    color: white;
+}
+
+.page-section.section-height--large:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+    min-height: 70vh!important;
+}
+
+iframe.thumb-image {
+    /* border: 1px solid white;
+    margin: 0 5px; */
+}
+
+.inside {
+    margin: 0 auto;
+    padding: 125px 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inside-2 {
+    margin: 0 auto;
+    padding: 75px 0 100px;
+    width: 100%;
+}
+
+.btn-02 {
+    font-size: 15px;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #f57c00;
+    border: 0;
+    outline: none;
+    width: 270px;
+    line-height: 38px!important;
+    height: 38px;
+}
+
+.btn-02:hover {
+    background-color:#f57c00;
+    color: rgb(0, 0, 0);
+}
+
+.btn-03 {
+    border-radius: 5px;
+    background-color: rgb(22, 30, 44);
+    border-color: rgb(22, 30, 44);
+    width: 270px;
+    height: 38px;
+    padding: 0;
+    line-height: 38px!important;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    margin: 0 auto;
+    border: 0;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.btn-03:hover {
+    background-color: rgba(22, 30, 44, .5);
+    color: rgb(255, 255, 255);
+}
+.footer_desc{
+    line-height: 25px;
+}
+/**************************************************
+**********************FOOTER***********************
+***************************************************
+ */
+.foot_menu {
+    display: flex;
+
+    width: 460px;
+    justify-content: space-between;
+    padding: 0;
+    display: flex;
+
+    text-transform: none;
+}
+
+.foot_item{
+    line-height: 25px;
+    text-transform: none!important;
+}
+.newsletter-block .newsletter-form-header-description a {
+    text-transform: none!important;
+}
+.newsletter-block .newsletter-form-header-description a {
+    text-decoration: none!important;
+}
+.sqs-block-newsletter a {
+    background-image: none!important;
+}
+
+.b-before  > b {
+    display: block;
+    margin-bottom: 30px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    position: relative;
+}
+.b-before  > b:before {
+    content: '';
+    position: absolute;
+    top: 30px;
+    width: 65px;
+    height: 2px;
+    background: #f57c00;
+    z-index: 1;
+}
+
+::marker {
+    color:  #f57c00;
+}
+
+.sqs-block-newsletter .newsletter-form-field-element {
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 30px;
+    position: relative;
+}
+.newsletter-form-button-wrapper.submit-wrapper {
+    vertical-align: bottom;
+    position: relative;
+    left: -148px;
+}
+.sqs-block-newsletter .newsletter-form-field-element {
+    border: 1px solid rgba(0,0,0,.12);
+    border-radius: 30px;
+    position: relative;
+}
+
+
+/***************************************************
+**********************REGISTR***********************
+****************************************************
+*/

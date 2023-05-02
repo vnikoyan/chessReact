@@ -1,0 +1,34 @@
+@import '../../styles/variable';
+
+.nav_header{
+  background: none;
+    *{
+      font-size: calc((.9 - 1) * 1.2vw + 1rem);
+    }
+    a{
+      outline:0;
+    }
+    .navbar{
+      width: 100vw;
+      .navbar-nav{
+        .nav-link{
+          color: white !important;
+        }
+      }
+    }
+    .dropdown-menu{
+      right: 0;
+      left: auto;
+      width: 300px;
+      padding: 0;
+      margin-top: 5px !important;
+    }
+  .logo_block{
+    cursor: pointer;
+    width: 200px;
+    img{
+      width: 100%;
+      height: 100%;
+    }
+  }
+}

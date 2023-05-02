@@ -1,0 +1,43 @@
+@import '../assets/fonts/style.css';
+@import './variable.scss';
+
+.MuiPaper-root{
+  // background-color: bisque !important;
+}
+
+html,
+body,
+#root {
+  min-height: 100vh;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
+* {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+select:focus {
+  outline: none;
+}
+
+.flag-select{
+  span{
+    color: white !important;
+  }
+  ul{
+    li{
+      span{
+        color: black !important;
+      }
+    }
+  }
+}

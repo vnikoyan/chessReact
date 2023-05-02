@@ -1,0 +1,41 @@
+@import '../../../styles/variable.scss';
+
+.accent_button_wrapper {
+  height: 38px;
+  display: flex;
+  position: relative;
+
+  button {
+    width: 100%;
+    color: #fff;
+    font-size: 13px;
+    line-height: 100%;
+    background: $primary;
+    cursor: pointer;
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 0;
+
+    &:hover {
+      background-color: $hover_dark;
+    }
+  }
+
+  .inverted_accent_button {
+    background: rgba(255, 255, 255, 0.01);
+    border: 1px solid #e6e6e6;
+    box-sizing: border-box;
+    color: $black_1;
+
+    &:hover {
+      background-color: $hover_light;
+    }
+
+    &:active {
+      background-color: #eeeeee;
+    }
+  }
+}

@@ -1,0 +1,32 @@
+@import '../../../styles/variable';
+
+.input_button {
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  min-width: 100px;
+  min-height: 30px;
+  padding: 0 10px;
+  color: $black_1;
+
+  &:hover {
+    background-color: $hover_light;
+  }
+
+  input {
+    display: none;
+  }
+
+  button {
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background: none;
+    flex: 1;
+    font-size: 12px;
+    line-height: 100%;
+    text-align: center;
+  }
+}

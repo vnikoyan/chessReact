@@ -1,0 +1,42 @@
+@import '../../styles/variable';
+
+footer{
+  overflow: hidden;
+  .content-wrapper{
+    height: auto;
+    .newsletter-form-field-wrapper{
+      position: relative;
+      // width: 350px !important;
+      .foot_menu {
+        margin-left: 5px !important;
+      }
+      .newsletter-form-field-element{
+        border: none;
+      }
+      button{
+        position: absolute;
+        right: 0;
+      }
+    }
+      // width: 350px !important;
+    .newsletter-form-button{
+      .newsletter-form-button-label{
+        color: white;
+      }
+      border-radius: 300px;
+    }
+    .footer-logo{
+      img{
+        width: 100%;
+        height: 100%;
+      }
+      width: auto;
+    }
+  }
+  *{
+    color: white;
+  }
+  a{
+    color: white;
+  }
+}
